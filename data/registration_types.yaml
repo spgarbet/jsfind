@@ -1,0 +1,32 @@
+--- 
+- 
+- name: BMI Work
+  info_link: 
+  lookup_url_format: http://repertoire.bmi.com/title.asp?blnWriter=True&blnPublisher=True&blnArtist=True&keyID=%s&ShowNbr=0&ShowSeqNbr=0&querytype=WorkID
+  pro_id: 2
+  id: 1
+  validation_regexp: \d+
+- name: ISWC Work
+  info_link: http://www.bmi.com/news/entry/233038
+  lookup_url_format: 
+  pro_id: 
+  id: 2
+  validation_regexp: T-\d{3}\.\d{3}\.\d{3}-\d
+- name: ASCAP T-Code
+  info_link: http://www.ascap.com/ace/acefaq.html
+  lookup_url_format: http://www.ascap.com/ace/search.cfm?requesttimeout=300&mode=results&searchstr=%s&search_in=i&search_type=exact&search_det=t,s,w,p,b,v&results_pp=20&start=1
+  pro_id: 1
+  id: 3
+  validation_regexp: \d+
+- name: ISRC
+  info_link: http://www.ifpi.org/content/section_resources/isrc_handbook.html
+  lookup_url_format: 
+  pro_id: 
+  id: 4
+  validation_regexp: ISRC\s*[A-Z][A-Z]\s*-\s*[A-Z]\d\d\s*-\s*\d\d\s*-\s*\d{5}
+- name: SESAC Work
+  info_link: 
+  lookup_url_format: http://www.sesac.com/repertory/asp/rsongsnumSQL.asp?SongNum=%s
+  pro_id: 3
+  id: 5
+  validation_regexp: \d+

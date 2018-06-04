@@ -1,0 +1,18 @@
+development:
+  server_name: 127.0.0.1
+  server_port: 3000
+  http_user: remote
+  http_pass: msremote
+
+test:
+  server_name: 127.0.0.1
+  server_port: 3000
+  http_user: remote
+  http_pass: msremote
+
+production:
+  server_name: www.mastersource.com
+  server_port: 80
+  http_user: remote
+  http_pass: msremote
+

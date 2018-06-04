@@ -1,0 +1,35 @@
+--- 
+- 
+- low_bpm: "60"
+  id: 1
+- 
+- low_bpm: "80"
+  id: 3
+- low_bpm: "90"
+  id: 4
+- low_bpm: "100"
+  id: 5
+- low_bpm: "110"
+  id: 6
+- low_bpm: "120"
+  id: 7
+- low_bpm: "130"
+  id: 8
+- low_bpm: "140"
+  id: 9
+- low_bpm: "150"
+  id: 10
+- low_bpm: "160"
+  id: 11
+- low_bpm: "170"
+  id: 12
+- low_bpm: "180"
+  id: 13
+- low_bpm: "190"
+  id: 14
+- low_bpm: "200"
+  id: 15
+- low_bpm: "210"
+  id: 16
+- low_bpm: "70"
+  id: 17

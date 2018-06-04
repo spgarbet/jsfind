@@ -1,0 +1,1377 @@
+--- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- name: Aboriginal
+  genre_id: 578
+  id: 16
+- name: Acid Jazz
+  genre_id: 196
+  id: 17
+- 
+- 
+- 
+- 
+- 
+- name: African
+  genre_id: 578
+  id: 23
+- 
+- 
+- 
+- 
+- 
+- name: Alternative
+  genre_id: 444
+  id: 29
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- name: Ballad
+  genre_id: 444
+  id: 51
+- 
+- 
+- 
+- 
+- 
+- 
+- name: Bayou
+  genre_id: 67
+  id: 58
+- 
+- name: Bebop
+  genre_id: 314
+  id: 60
+- 
+- name: Big Band
+  genre_id: 314
+  id: 62
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- name: Bossa Nova
+  genre_id: 314
+  id: 74
+- 
+- 
+- 
+- name: Club
+  genre_id: 158
+  id: 78
+- 
+- name: Brazilian
+  genre_id: 578
+  id: 80
+- name: Breakbeat
+  genre_id: 196
+  id: 81
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- name: Cabaret
+  genre_id: 314
+  id: 92
+- name: Cajun
+  genre_id: 67
+  id: 93
+- 
+- 
+- 
+- name: Calypso
+  genre_id: 103
+  id: 97
+- 
+- 
+- 
+- 
+- 
+- 
+- name: Cartoon
+  genre_id: 130
+  id: 104
+- 
+- name: Celtic
+  genre_id: 578
+  id: 106
+- 
+- 
+- 
+- 
+- 
+- 
+- name: Chill
+  genre_id: 196
+  id: 113
+- 
+- name: Chinese
+  genre_id: 578
+  id: 115
+- 
+- 
+- 
+- 
+- 
+- name: Circus
+  genre_id: 130
+  id: 121
+- 
+- 
+- name: Club
+  genre_id: 286
+  id: 124
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- name: Cuban
+  genre_id: 324
+  id: 154
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- name: Disco
+  genre_id: 158
+  id: 170
+- name: Dixieland
+  genre_id: 314
+  id: 171
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- name: Flamenco
+  genre_id: 324
+  id: 225
+- 
+- 
+- 
+- name: Folk
+  genre_id: 444
+  id: 229
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- name: Glam Rock
+  genre_id: 444
+  id: 249
+- 
+- 
+- 
+- 
+- 
+- name: Goth Rock
+  genre_id: 444
+  id: 255
+- 
+- name: Greek
+  genre_id: 578
+  id: 257
+- 
+- 
+- 
+- name: Grunge
+  genre_id: 444
+  id: 261
+- name: Halloween
+  genre_id: 289
+  id: 262
+- name: Hanukkah
+  genre_id: 289
+  id: 263
+- 
+- 
+- name: Hard Rock
+  genre_id: 444
+  id: 266
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- name: India
+  genre_id: 578
+  id: 299
+- name: Industrial
+  genre_id: 196
+  id: 300
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- name: Italian
+  genre_id: 578
+  id: 311
+- 
+- 
+- 
+- 
+- 
+- 
+- name: Jump Blues
+  genre_id: 68
+  id: 318
+- name: Jungle
+  genre_id: 196
+  id: 319
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- name: Lounge
+  genre_id: 314
+  id: 332
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- name: Mariachi
+  genre_id: 324
+  id: 341
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- name: Metal
+  genre_id: 444
+  id: 351
+- name: Middle Eastern
+  genre_id: 578
+  id: 352
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- name: Native American
+  genre_id: 578
+  id: 369
+- 
+- name: New Age
+  genre_id: 444
+  id: 371
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- name: Pop Alternative
+  genre_id: 444
+  id: 403
+- name: Pop Rock
+  genre_id: 444
+  id: 404
+- 
+- 
+- name: Power Ballad
+  genre_id: 444
+  id: 407
+- name: Power Pop
+  genre_id: 444
+  id: 408
+- 
+- 
+- 
+- name: Progressive
+  genre_id: 444
+  id: 412
+- 
+- 
+- 
+- 
+- name: Punk
+  genre_id: 444
+  id: 417
+- 
+- 
+- 
+- name: Ragtime
+  genre_id: 314
+  id: 421
+- 
+- name: Rap Rock
+  genre_id: 444
+  id: 423
+- 
+- 
+- name: Rave
+  genre_id: 196
+  id: 426
+- 
+- 
+- 
+- 
+- name: Reggaeton
+  genre_id: 324
+  id: 431
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- name: Rhumba
+  genre_id: 324
+  id: 440
+- 
+- name: Roadhouse
+  genre_id: 444
+  id: 442
+- 
+- 
+- name: Rockabilly
+  genre_id: 444
+  id: 445
+- 
+- 
+- 
+- 
+- 
+- name: Salsa
+  genre_id: 324
+  id: 451
+- name: Samba
+  genre_id: 324
+  id: 452
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- name: Ska
+  genre_id: 444
+  id: 478
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- name: South American
+  genre_id: 324
+  id: 495
+- 
+- name: Southern Rock
+  genre_id: 444
+  id: 497
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- name: Tango
+  genre_id: 324
+  id: 528
+- 
+- name: Techno
+  genre_id: 196
+  id: 530
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- name: Trip-Hop
+  genre_id: 196
+  id: 552
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- name: Classic Rock
+  genre_id: 444
+  id: 579
+- name: Downtempo Electronica
+  genre_id: 196
+  id: 580
+- 
+- name: Drum & Bass
+  genre_id: 196
+  id: 582
+- 
+- name: Indie Rock
+  genre_id: 444
+  id: 584
+- 
+- name: House
+  genre_id: 196
+  id: 586
+- name: Nu Metal
+  genre_id: 444
+  id: 587
+- name: Tejano
+  genre_id: 324
+  id: 588
+- 
+- name: Surf
+  genre_id: 444
+  id: 590
+- 
+- 
+- 
+- name: Dancehall Reggae
+  genre_id: 430
+  id: 594
+- name: Gypsy
+  genre_id: 578
+  id: 595
+- name: Swing
+  genre_id: 314
+  id: 596
+- 
+- name: Doo Wop
+  genre_id: 444
+  id: 598
+- 
+- 
+- 
+- name: Burlesque
+  genre_id: 314
+  id: 602
+- 
+- 
+- name: Southern Baptist
+  genre_id: 254
+  id: 605
+- name: Hymnal
+  genre_id: 254
+  id: 606
+- name: Japanese
+  genre_id: 578
+  id: 607
+- 
+- 
+- name: Electro-Pop
+  genre_id: 196
+  id: 610
+- name: Electro-Rock
+  genre_id: 196
+  id: 611
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- name: Chicago
+  genre_id: 68
+  id: 1078
+- name: Delta
+  genre_id: 68
+  id: 1079
+- name: Texas
+  genre_id: 68
+  id: 1080
+- name: Soca
+  genre_id: 103
+  id: 1081
+- name: Christmas
+  genre_id: 289
+  id: 1082
+- name: Kwanzaa
+  genre_id: 289
+  id: 1083
+- name: DUB
+  genre_id: 430
+  id: 1084
+- name: Roots
+  genre_id: 430
+  id: 1085
+- name: Southern
+  genre_id: 286
+  id: 1086
+- name: East Coast
+  genre_id: 286
+  id: 1087
+- name: West Coast
+  genre_id: 286
+  id: 1088
+- name: Commercial
+  genre_id: 286
+  id: 1089
+- name: Gangster
+  genre_id: 286
+  id: 1090
+- name: Old School
+  genre_id: 286
+  id: 1091
+- name: Korean
+  genre_id: 578
+  id: 1092
+- name: Island
+  genre_id: 324
+  id: 1093
+- name: Nursery Rhyme
+  genre_id: 616
+  id: 1094
+- name: Death Metal
+  genre_id: 444
+  id: 1095
+- name: Fantasy
+  genre_id: 389
+  id: 1096
+- name: Action / Adventure
+  genre_id: 389
+  id: 1097
+- name: Drama / Romance
+  genre_id: 389
+  id: 1098
+- name: Suspense / Horror
+  genre_id: 389
+  id: 1099
+- name: Family / Comedy
+  genre_id: 389
+  id: 1100
+- name: New Wave
+  genre_id: 444
+  id: 1101
+- name: Teen Pop
+  genre_id: 444
+  id: 1102
+- name: British
+  genre_id: 444
+  id: 1103
+- name: Crooner
+  genre_id: 314
+  id: 1104
+- name: Cowboy
+  genre_id: 146
+  id: 1105
+- name: Battle
+  genre_id: 591
+  id: 1106
+- name: Boy Band
+  genre_id: 158
+  id: 1107
+- name: Buddha Bar
+  genre_id: 196
+  id: 1108
+- name: Caroling
+  genre_id: 289
+  id: 1109
+- name: Texas-Style
+  genre_id: 68
+  id: 1110
+- name: Chicago-Style
+  genre_id: 68
+  id: 1111
+- name: Philadelphia-Style
+  genre_id: 493
+  id: 1112
+- name: Hillbilly
+  genre_id: 68
+  id: 1113
+- name: Honky Tonk
+  genre_id: 146
+  id: 1114
+- name: New Orleans-Style
+  genre_id: 314
+  id: 1115
+- name: Torch
+  genre_id: 314
+  id: 1116
+- name: Coffeehouse
+  genre_id: 623
+  id: 1117
+- name: Folk
+  genre_id: 623
+  id: 1118
+- name: Baptist
+  genre_id: 254
+  id: 1119
+- name: Detroit-Style
+  genre_id: 493
+  id: 1120
+- name: Saloon
+  genre_id: 625
+  id: 1121

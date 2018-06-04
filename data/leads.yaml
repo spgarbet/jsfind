@@ -1,0 +1,61 @@
+--- 
+- 
+- name: Female Vocal
+  id: 1
+- name: Male Vocal
+  id: 2
+- name: Male & Female Vocals
+  id: 3
+- name: Choir
+  id: 4
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- name: Vocal Sound Effects
+  id: 20
+- 
+- name: Whisper
+  id: 22
+- name: Chanting
+  id: 23
+- name: Children
+  id: 24
+- 
+- 
+- name: Group Vocals
+  id: 27
+- 
+- 
+- 
+- name: Female Sample Vocals
+  id: 31
+- 
+- 
+- 
+- 
+- 
+- 
+- name: Synth Vocals
+  id: 38
+- 
+- name: Cheering
+  id: 40
+- name: Laughing
+  id: 41
+- 
+- name: Scatting
+  id: 43
+- name: Screaming
+  id: 44

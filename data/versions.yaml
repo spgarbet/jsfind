@@ -1,0 +1,35 @@
+--- 
+- 
+- name: full vocal
+  sort_order: "10"
+  id: 1
+  has_vocal: t
+- name: vocal
+  sort_order: "20"
+  id: 2
+  has_vocal: t
+- name: full vocal (explicit)
+  sort_order: "30"
+  id: 3
+  has_vocal: t
+- 
+- name: full instrumental
+  sort_order: "50"
+  id: 5
+  has_vocal: f
+- name: instrumental
+  sort_order: "60"
+  id: 6
+  has_vocal: f
+- name: instrumental remix
+  sort_order: "70"
+  id: 7
+  has_vocal: f
+- name: reduced
+  sort_order: "80"
+  id: 8
+  has_vocal: f
+- name: A Cappella
+  sort_order: "90"
+  id: 9
+  has_vocal: t

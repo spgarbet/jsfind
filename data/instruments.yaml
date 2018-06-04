@@ -1,0 +1,758 @@
+--- 
+- 
+- name: Accordion
+  id: 1
+- name: Acoustic Guitar
+  id: 2
+- name: Baglamas
+  id: 3
+- name: Bagpipes
+  id: 4
+- name: Balifon
+  id: 5
+- name: Banjo
+  id: 6
+- name: Bass Guitar
+  id: 7
+- name: Bells
+  id: 8
+- name: Bongo Drums
+  id: 9
+- name: Bouzouki
+  id: 10
+- name: Brass
+  id: 11
+- name: Brushes
+  id: 12
+- name: Cabasa
+  id: 13
+- name: Canang
+  id: 14
+- name: Castanets
+  id: 15
+- name: Cello
+  id: 16
+- name: Charango
+  id: 17
+- name: Chimes
+  id: 18
+- name: Clarinet
+  id: 19
+- name: Classical Guitar
+  id: 20
+- name: Clave
+  id: 21
+- name: Clavinet
+  id: 22
+- name: Conga Drums
+  id: 23
+- name: Cowbell
+  id: 24
+- name: Cuica
+  id: 25
+- 
+- name: Cymbals
+  id: 27
+- name: Didgeridoo
+  id: 28
+- name: Dobro Guitar
+  id: 29
+- name: Drums
+  id: 30
+- name: Duduk
+  id: 31
+- name: Dulcimer
+  id: 32
+- name: Dumbek
+  id: 33
+- name: Egg Shaker
+  id: 34
+- name: Electric Guitar
+  id: 35
+- name: Electric Piano
+  id: 36
+- name: Electric Slide Guitar
+  id: 37
+- name: Erhu
+  id: 38
+- name: Fiddle
+  id: 39
+- name: Flamenco Guitar
+  id: 40
+- name: Flute
+  id: 41
+- name: French Horn
+  id: 42
+- name: Fretless Bass
+  id: 43
+- name: Gamelan
+  id: 44
+- name: Gong
+  id: 45
+- name: Guiro
+  id: 46
+- name: Guitar
+  id: 47
+- name: Guitarron
+  id: 48
+- name: Hammond Organ
+  id: 49
+- name: Hand Claps
+  id: 50
+- name: Harmonica
+  id: 51
+- name: Harpsichord
+  id: 52
+- name: Horns
+  id: 53
+- name: Jakay
+  id: 54
+- name: Kalimba
+  id: 55
+- name: Keyboards
+  id: 56
+- name: Koto
+  id: 57
+- name: Lute
+  id: 58
+- name: Mandolin
+  id: 59
+- name: Marimba
+  id: 60
+- name: "Mezoued "
+  id: 61
+- name: Oboe
+  id: 62
+- name: Organ
+  id: 63
+- name: Pan Flute
+  id: 64
+- name: Pandeiro
+  id: 65
+- name: Panpipes
+  id: 66
+- name: Pedal Steel Guitar
+  id: 67
+- name: Pennywhistle
+  id: 68
+- name: Percussion
+  id: 69
+- name: Piano
+  id: 70
+- name: Piccolo
+  id: 71
+- name: Pipa
+  id: 72
+- name: Quena
+  id: 73
+- name: "Ranat Thun "
+  id: 74
+- name: Saxophone
+  id: 75
+- name: Saz
+  id: 76
+- name: Scratches
+  id: 77
+- name: Sequencer
+  id: 78
+- name: Shaker
+  id: 79
+- name: Shehnai
+  id: 80
+- name: Siren
+  id: 81
+- name: Sitar
+  id: 82
+- name: Situr
+  id: 83
+- name: Sleigh Bells
+  id: 84
+- name: Steel Drums
+  id: 85
+- name: Steel Guitar
+  id: 86
+- name: Surdo
+  id: 87
+- name: Synthesizer
+  id: 88
+- name: Tablas
+  id: 89
+- name: Talk Box
+  id: 90
+- name: Tambourine
+  id: 91
+- name: Tenor Saxophone
+  id: 92
+- name: Theramin
+  id: 93
+- name: Triangle
+  id: 94
+- name: Trombone
+  id: 95
+- name: Trumpet
+  id: 96
+- name: Tuba
+  id: 97
+- name: Tympani
+  id: 98
+- name: Udu
+  id: 99
+- name: Upright Bass
+  id: 100
+- name: Vibraphone
+  id: 101
+- 
+- name: Vibraslapper
+  id: 103
+- name: Violin
+  id: 104
+- name: Vocoder
+  id: 105
+- name: Wah Wah Pedal
+  id: 106
+- name: Whistling
+  id: 107
+- name: Wood Block
+  id: 108
+- name: Woodwinds
+  id: 109
+- name: Xylophone
+  id: 110
+- name: Yiali Tambour
+  id: 111
+- name: Zampana
+  id: 112
+- name: Zither
+  id: 113
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- name: Tivoli
+  id: 542
+- name: Calliope
+  id: 543
+- name: Strings
+  id: 544
+- name: Pads
+  id: 545
+- name: Spoons
+  id: 546
+- name: Harp
+  id: 547
+- name: Bassoon
+  id: 548
+- name: Alto Saxophone
+  id: 549
+- name: Ukelele
+  id: 550
+- name: Slack Key Guitar
+  id: 551
+- name: Nature Sounds
+  id: 552
+- name: Water Sounds
+  id: 553
+- name: Wind Sounds
+  id: 554
+- name: Animal Sounds
+  id: 555
+- name: Luan
+  id: 556
+- name: Guzhen
+  id: 557
+- name: Shakuhachi
+  id: 558
+- name: Whistle
+  id: 559
+- name: Oud
+  id: 560
+- name: Urhu
+  id: 561
+- name: Auto-Tune
+  id: 562
+- name: Glockenspiel
+  id: 563
+- name: Flugelhorn
+  id: 564
+- name: Train Whistle
+  id: 565
+- name: Finger Snaps
+  id: 566
+- name: Drun
+  id: 567
+- name: Log Drun
+  id: 568
+- name: Djembe
+  id: 569
+- name: Mbira
+  id: 570
+- name: Bata
+  id: 571
+- name: Sarangie
+  id: 572
+- name: Tanpura
+  id: 573
+- name: Kartals
+  id: 574
+- name: Reed Flute
+  id: 575
+- name: Dholak
+  id: 576
+- name: Tombak
+  id: 577
+- name: Ney Flute
+  id: 578
+- name: Dhol
+  id: 579
+- name: Manjera Drum
+  id: 580
+- name: Clay Pots
+  id: 581
+- name: Yangin
+  id: 582
+- name: Sheng
+  id: 583
+- name: Tanbur
+  id: 584
+- name: Tanbo
+  id: 585
+- name: Harmonium
+  id: 586
+- name: Shamisen
+  id: 587
+- name: Taiko Drum
+  id: 588
+- name: Moog Sequencer
+  id: 589
+- name: Davul Drum
+  id: 590
+- name: Sirtos Drum
+  id: 591
+- name: Wurlitzer
+  id: 592
+- name: Drum Machine
+  id: 593

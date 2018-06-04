@@ -1,0 +1,3609 @@
+--- 
+- 
+- cd_name: Rock/Metal
+  cd_key: MSV01CD01
+  volume_id: 1
+  id: 1
+  cd_letter: ""
+  release_date: "2009-02-01"
+  description: 
+  new_release: f
+  cd_number: "1"
+  library_id: 1
+- cd_name: Grunge/Alternative/Punk
+  cd_key: MSV01CD02
+  volume_id: 1
+  id: 2
+  cd_letter: ""
+  release_date: "2009-02-01"
+  description: 
+  new_release: f
+  cd_number: "2"
+  library_id: 1
+- cd_name: Urban/Rap/Dance
+  cd_key: MSV01CD03
+  volume_id: 1
+  id: 3
+  cd_letter: ""
+  release_date: "2009-02-01"
+  description: 
+  new_release: f
+  cd_number: "3"
+  library_id: 1
+- cd_name: Reggae/Country/Roadhouse/ Blues/Ballads
+  cd_key: MSV01CD04
+  volume_id: 1
+  id: 4
+  cd_letter: ""
+  release_date: "2009-02-01"
+  description: 
+  new_release: f
+  cd_number: "4"
+  library_id: 1
+- cd_name: Rock/Grunge/Blues Non Vocal
+  cd_key: MSV01CD05
+  volume_id: 1
+  id: 5
+  cd_letter: ""
+  release_date: "2009-02-01"
+  description: 
+  new_release: f
+  cd_number: "5"
+  library_id: 1
+- cd_name: Techno/Industrial/Dance/Jazz/Acid Jazz/Lounge Non
+  cd_key: MSV01CD06
+  volume_id: 1
+  id: 6
+  cd_letter: ""
+  release_date: "2009-02-01"
+  description: 
+  new_release: f
+  cd_number: "6"
+  library_id: 1
+- cd_name: Rock/Alternative/Power Pop
+  cd_key: MSV02CD01
+  volume_id: 2
+  id: 7
+  cd_letter: ""
+  release_date: "2009-03-03"
+  description: 
+  new_release: f
+  cd_number: "1"
+  library_id: 1
+- cd_name: Rock/Alternative/Power Pop Non Vocal
+  cd_key: MSV02CD02
+  volume_id: 2
+  id: 8
+  cd_letter: ""
+  release_date: "2009-03-03"
+  description: 
+  new_release: f
+  cd_number: "2"
+  library_id: 1
+- cd_name: Punk/Grunge
+  cd_key: MSV02CD03
+  volume_id: 2
+  id: 9
+  cd_letter: ""
+  release_date: "2009-03-03"
+  description: 
+  new_release: f
+  cd_number: "3"
+  library_id: 1
+- cd_name: Techno Vocal & Non Vocal
+  cd_key: MSV02CD04
+  volume_id: 2
+  id: 10
+  cd_letter: ""
+  release_date: "2009-03-03"
+  description: 
+  new_release: f
+  cd_number: "4"
+  library_id: 1
+- cd_name: Blues
+  cd_key: MSV02CD05
+  volume_id: 2
+  id: 11
+  cd_letter: ""
+  release_date: "2009-03-03"
+  description: 
+  new_release: f
+  cd_number: "5"
+  library_id: 1
+- cd_name: Blues Non Vocal
+  cd_key: MSV02CD06
+  volume_id: 2
+  id: 12
+  cd_letter: ""
+  release_date: "2009-03-03"
+  description: 
+  new_release: f
+  cd_number: "6"
+  library_id: 1
+- cd_name: Country
+  cd_key: MSV02CD07
+  volume_id: 2
+  id: 13
+  cd_letter: ""
+  release_date: "2009-03-03"
+  description: 
+  new_release: f
+  cd_number: "7"
+  library_id: 1
+- cd_name: Country Non Vocal
+  cd_key: MSV02CD08
+  volume_id: 2
+  id: 14
+  cd_letter: ""
+  release_date: "2009-03-03"
+  description: 
+  new_release: f
+  cd_number: "8"
+  library_id: 1
+- cd_name: Dance/Disco
+  cd_key: MSV02CD09
+  volume_id: 2
+  id: 15
+  cd_letter: ""
+  release_date: "2009-03-03"
+  description: 
+  new_release: f
+  cd_number: "9"
+  library_id: 1
+- cd_name: Dance/Disco Non Vocal
+  cd_key: MSV02CD10
+  volume_id: 2
+  id: 16
+  cd_letter: ""
+  release_date: "2009-03-03"
+  description: 
+  new_release: f
+  cd_number: "10"
+  library_id: 1
+- cd_name: R & B
+  cd_key: MSV02CD11
+  volume_id: 2
+  id: 17
+  cd_letter: 
+  release_date: "2009-03-03"
+  description: 
+  new_release: f
+  cd_number: "11"
+  library_id: 1
+- cd_name: R & B Non Vocal
+  cd_key: MSV02CD12
+  volume_id: 2
+  id: 18
+  cd_letter: ""
+  release_date: "2009-03-03"
+  description: 
+  new_release: f
+  cd_number: "12"
+  library_id: 1
+- cd_name: Rap/Hip-Hop
+  cd_key: MSV02CD13
+  volume_id: 2
+  id: 19
+  cd_letter: ""
+  release_date: "2009-03-03"
+  description: 
+  new_release: f
+  cd_number: "13"
+  library_id: 1
+- cd_name: Rap/Hip-Hop Non Vocal
+  cd_key: MSV02CD14
+  volume_id: 2
+  id: 20
+  cd_letter: ""
+  release_date: "2009-03-03"
+  description: 
+  new_release: f
+  cd_number: "14"
+  library_id: 1
+- cd_name: Jazz
+  cd_key: MSV02CD15
+  volume_id: 2
+  id: 21
+  cd_letter: ""
+  release_date: "2009-03-03"
+  description: 
+  new_release: f
+  cd_number: "15"
+  library_id: 1
+- cd_name: Jazz Non Vocal
+  cd_key: MSV02CD16
+  volume_id: 2
+  id: 22
+  cd_letter: ""
+  release_date: "2009-03-03"
+  description: 
+  new_release: f
+  cd_number: "16"
+  library_id: 1
+- cd_name: Latin Vocal & Non Vocal
+  cd_key: MSV02CD17
+  volume_id: 2
+  id: 23
+  cd_letter: ""
+  release_date: "2009-03-03"
+  description: 
+  new_release: f
+  cd_number: "17"
+  library_id: 1
+- cd_name: Reggae/World Vocal & Non Vocal
+  cd_key: MSV02CD18
+  volume_id: 2
+  id: 24
+  cd_letter: ""
+  release_date: "2009-03-03"
+  description: 
+  new_release: f
+  cd_number: "18"
+  library_id: 1
+- cd_name: Ballads
+  cd_key: MSV02CD19
+  volume_id: 2
+  id: 25
+  cd_letter: ""
+  release_date: "2009-03-03"
+  description: 
+  new_release: f
+  cd_number: "19"
+  library_id: 1
+- cd_name: Ballads Non Vocal
+  cd_key: MSV02CD20
+  volume_id: 2
+  id: 26
+  cd_letter: ""
+  release_date: "2009-03-03"
+  description: 
+  new_release: f
+  cd_number: "20"
+  library_id: 1
+- cd_name: Rock
+  cd_key: MSV03CD01
+  volume_id: 3
+  id: 27
+  cd_letter: ""
+  release_date: "2009-04-02"
+  description: 
+  new_release: f
+  cd_number: "1"
+  library_id: 1
+- cd_name: Rock Non Vocal
+  cd_key: MSV03CD02
+  volume_id: 3
+  id: 28
+  cd_letter: ""
+  release_date: "2009-04-02"
+  description: 
+  new_release: f
+  cd_number: "2"
+  library_id: 1
+- cd_name: Power Pop/Alternative/Grunge
+  cd_key: MSV03CD03
+  volume_id: 3
+  id: 29
+  cd_letter: ""
+  release_date: "2009-04-02"
+  description: 
+  new_release: f
+  cd_number: "3"
+  library_id: 1
+- cd_name: Power Pop/Alternative/Grunge Non Vocal
+  cd_key: MSV03CD04
+  volume_id: 3
+  id: 30
+  cd_letter: ""
+  release_date: "2009-04-02"
+  description: 
+  new_release: f
+  cd_number: "4"
+  library_id: 1
+- cd_name: Singer-Songwriter
+  cd_key: MSV03CD05
+  volume_id: 3
+  id: 31
+  cd_letter: ""
+  release_date: "2009-04-02"
+  description: 
+  new_release: f
+  cd_number: "5"
+  library_id: 1
+- cd_name: Singer-Songwriter Non Vocal
+  cd_key: MSV03CD06
+  volume_id: 3
+  id: 32
+  cd_letter: ""
+  release_date: "2009-04-02"
+  description: 
+  new_release: f
+  cd_number: "6"
+  library_id: 1
+- cd_name: Blues/Gospel
+  cd_key: MSV03CD07
+  volume_id: 3
+  id: 33
+  cd_letter: ""
+  release_date: "2009-04-02"
+  description: 
+  new_release: f
+  cd_number: "7"
+  library_id: 1
+- cd_name: Blues/Gospel Non Vocal
+  cd_key: MSV03CD08
+  volume_id: 3
+  id: 34
+  cd_letter: ""
+  release_date: "2009-04-02"
+  description: 
+  new_release: f
+  cd_number: "8"
+  library_id: 1
+- cd_name: Country
+  cd_key: MSV03CD09
+  volume_id: 3
+  id: 35
+  cd_letter: ""
+  release_date: "2009-04-02"
+  description: 
+  new_release: f
+  cd_number: "9"
+  library_id: 1
+- cd_name: Country No Nvocal
+  cd_key: MSV03CD10
+  volume_id: 3
+  id: 36
+  cd_letter: ""
+  release_date: "2009-04-02"
+  description: 
+  new_release: f
+  cd_number: "10"
+  library_id: 1
+- cd_name: Dance
+  cd_key: MSV03CD11
+  volume_id: 3
+  id: 37
+  cd_letter: ""
+  release_date: "2009-04-02"
+  description: 
+  new_release: f
+  cd_number: "11"
+  library_id: 1
+- cd_name: Dance Non Vocal
+  cd_key: MSV03CD12
+  volume_id: 3
+  id: 38
+  cd_letter: ""
+  release_date: "2009-04-02"
+  description: 
+  new_release: f
+  cd_number: "12"
+  library_id: 1
+- cd_name: Rap
+  cd_key: MSV03CD13
+  volume_id: 3
+  id: 39
+  cd_letter: ""
+  release_date: "2009-04-02"
+  description: 
+  new_release: f
+  cd_number: "13"
+  library_id: 1
+- cd_name: Rap Non Vocal
+  cd_key: MSV03CD14
+  volume_id: 3
+  id: 40
+  cd_letter: ""
+  release_date: "2009-04-02"
+  description: 
+  new_release: f
+  cd_number: "14"
+  library_id: 1
+- cd_name: Jazz/Lounge/Big Band
+  cd_key: MSV03CD15
+  volume_id: 3
+  id: 41
+  cd_letter: ""
+  release_date: "2009-04-02"
+  description: 
+  new_release: f
+  cd_number: "15"
+  library_id: 1
+- cd_name: Jazz/Lounge/Big Band Non Vocal
+  cd_key: MSV03CD16
+  volume_id: 3
+  id: 42
+  cd_letter: ""
+  release_date: "2009-04-02"
+  description: 
+  new_release: f
+  cd_number: "16"
+  library_id: 1
+- cd_name: Techno
+  cd_key: MSV03CD17
+  volume_id: 3
+  id: 43
+  cd_letter: ""
+  release_date: "2009-04-02"
+  description: 
+  new_release: f
+  cd_number: "17"
+  library_id: 1
+- cd_name: "Instrumental Rock Guitar "
+  cd_key: MSV03CD18
+  volume_id: 3
+  id: 44
+  cd_letter: ""
+  release_date: "2009-04-02"
+  description: 
+  new_release: f
+  cd_number: "18"
+  library_id: 1
+- cd_name: Elevator Music/Cocktail Piano
+  cd_key: MSV03CD19
+  volume_id: 3
+  id: 45
+  cd_letter: ""
+  release_date: "2009-04-02"
+  description: 
+  new_release: f
+  cd_number: "19"
+  library_id: 1
+- cd_name: World
+  cd_key: MSV03CD20
+  volume_id: 3
+  id: 46
+  cd_letter: ""
+  release_date: "2009-04-02"
+  description: 
+  new_release: f
+  cd_number: "20"
+  library_id: 1
+- cd_name: Rock
+  cd_key: MSV04CD01
+  volume_id: 4
+  id: 47
+  cd_letter: ""
+  release_date: "2009-05-02"
+  description: 
+  new_release: f
+  cd_number: "1"
+  library_id: 1
+- cd_name: Rock Non Vocal
+  cd_key: MSV04CD02
+  volume_id: 4
+  id: 48
+  cd_letter: ""
+  release_date: "2009-05-02"
+  description: 
+  new_release: f
+  cd_number: "2"
+  library_id: 1
+- cd_name: Alternative/Power Pop/Ska
+  cd_key: MSV04CD03
+  volume_id: 4
+  id: 49
+  cd_letter: ""
+  release_date: "2009-05-02"
+  description: 
+  new_release: f
+  cd_number: "3"
+  library_id: 1
+- cd_name: Alternative/Power Pop/Ska Non Vocal
+  cd_key: MSV04CD04
+  volume_id: 4
+  id: 50
+  cd_letter: ""
+  release_date: "2009-05-02"
+  description: 
+  new_release: f
+  cd_number: "4"
+  library_id: 1
+- cd_name: Grunge/Punk
+  cd_key: MSV04CD05
+  volume_id: 4
+  id: 51
+  cd_letter: ""
+  release_date: "2009-05-02"
+  description: 
+  new_release: f
+  cd_number: "5"
+  library_id: 1
+- cd_name: Grunge/Punk Non Vocal
+  cd_key: MSV04CD06
+  volume_id: 4
+  id: 52
+  cd_letter: ""
+  release_date: "2009-05-02"
+  description: 
+  new_release: f
+  cd_number: "6"
+  library_id: 1
+- cd_name: Singer-Songwriter
+  cd_key: MSV04CD07
+  volume_id: 4
+  id: 53
+  cd_letter: ""
+  release_date: "2009-05-02"
+  description: 
+  new_release: f
+  cd_number: "7"
+  library_id: 1
+- cd_name: Singer-Songwriter Non Vocal
+  cd_key: MSV04CD08
+  volume_id: 4
+  id: 54
+  cd_letter: ""
+  release_date: "2009-05-02"
+  description: 
+  new_release: f
+  cd_number: "8"
+  library_id: 1
+- cd_name: Blues
+  cd_key: MSV04CD09
+  volume_id: 4
+  id: 55
+  cd_letter: ""
+  release_date: "2009-05-02"
+  description: 
+  new_release: f
+  cd_number: "9"
+  library_id: 1
+- cd_name: Blues Non Vocal
+  cd_key: MSV04CD10
+  volume_id: 4
+  id: 56
+  cd_letter: ""
+  release_date: "2009-05-02"
+  description: 
+  new_release: f
+  cd_number: "10"
+  library_id: 1
+- cd_name: Country
+  cd_key: MSV04CD11
+  volume_id: 4
+  id: 57
+  cd_letter: ""
+  release_date: "2009-05-02"
+  description: 
+  new_release: f
+  cd_number: "11"
+  library_id: 1
+- cd_name: Country Non Vocal
+  cd_key: MSV04CD12
+  volume_id: 4
+  id: 58
+  cd_letter: ""
+  release_date: "2009-05-02"
+  description: 
+  new_release: f
+  cd_number: "12"
+  library_id: 1
+- cd_name: Dance/Disco
+  cd_key: MSV04CD13
+  volume_id: 4
+  id: 59
+  cd_letter: ""
+  release_date: "2009-05-02"
+  description: 
+  new_release: f
+  cd_number: "13"
+  library_id: 1
+- cd_name: Dance/Disco Non Vocal
+  cd_key: MSV04CD14
+  volume_id: 4
+  id: 60
+  cd_letter: ""
+  release_date: "2009-05-02"
+  description: 
+  new_release: f
+  cd_number: "14"
+  library_id: 1
+- cd_name: Rap/Hip-Hop
+  cd_key: MSV04CD15
+  volume_id: 4
+  id: 61
+  cd_letter: ""
+  release_date: "2009-05-02"
+  description: 
+  new_release: f
+  cd_number: "15"
+  library_id: 1
+- cd_name: Rap/Hip-Hop Non Vocal
+  cd_key: MSV04CD16
+  volume_id: 4
+  id: 62
+  cd_letter: ""
+  release_date: "2009-05-02"
+  description: 
+  new_release: f
+  cd_number: "16"
+  library_id: 1
+- cd_name: Swing/Lounge/Jazz
+  cd_key: MSV04CD17
+  volume_id: 4
+  id: 63
+  cd_letter: ""
+  release_date: "2009-05-02"
+  description: 
+  new_release: f
+  cd_number: "17"
+  library_id: 1
+- cd_name: Swing/Lounge/Jazz Non Vocal
+  cd_key: MSV04CD18
+  volume_id: 4
+  id: 64
+  cd_letter: ""
+  release_date: "2009-05-02"
+  description: 
+  new_release: f
+  cd_number: "18"
+  library_id: 1
+- cd_name: Celtic/Celtic Rock
+  cd_key: MSV04CD19
+  volume_id: 4
+  id: 65
+  cd_letter: ""
+  release_date: "2009-05-02"
+  description: 
+  new_release: f
+  cd_number: "19"
+  library_id: 1
+- cd_name: Celtic/Celtic Rock Non Vocal
+  cd_key: MSV04CD20
+  volume_id: 4
+  id: 66
+  cd_letter: ""
+  release_date: "2009-05-02"
+  description: 
+  new_release: f
+  cd_number: "20"
+  library_id: 1
+- cd_name: Techno
+  cd_key: MSV04CD21
+  volume_id: 4
+  id: 67
+  cd_letter: ""
+  release_date: "2009-05-02"
+  description: 
+  new_release: f
+  cd_number: "21"
+  library_id: 1
+- cd_name: Elevator
+  cd_key: MSV04CD22
+  volume_id: 4
+  id: 68
+  cd_letter: ""
+  release_date: "2009-05-02"
+  description: 
+  new_release: f
+  cd_number: "22"
+  library_id: 1
+- cd_name: Grunge/Metal
+  cd_key: MSV05CD01
+  volume_id: 5
+  id: 69
+  cd_letter: ""
+  release_date: "2009-06-01"
+  description: 
+  new_release: f
+  cd_number: "1"
+  library_id: 1
+- cd_name: Grunge/Metal Non Vocal
+  cd_key: MSV05CD02
+  volume_id: 5
+  id: 70
+  cd_letter: ""
+  release_date: "2009-06-01"
+  description: 
+  new_release: f
+  cd_number: "2"
+  library_id: 1
+- cd_name: Alternative/Power Pop
+  cd_key: MSV05CD03
+  volume_id: 5
+  id: 71
+  cd_letter: ""
+  release_date: "2009-06-01"
+  description: 
+  new_release: f
+  cd_number: "3"
+  library_id: 1
+- cd_name: Alternative/Power Pop Non Vocal
+  cd_key: MSV05CD04
+  volume_id: 5
+  id: 72
+  cd_letter: ""
+  release_date: "2009-06-01"
+  description: 
+  new_release: f
+  cd_number: "4"
+  library_id: 1
+- cd_name: The 60's
+  cd_key: MSV05CD05
+  volume_id: 5
+  id: 73
+  cd_letter: ""
+  release_date: "2009-06-01"
+  description: 
+  new_release: f
+  cd_number: "5"
+  library_id: 1
+- cd_name: The 60's Non Vocal
+  cd_key: MSV05CD06
+  volume_id: 5
+  id: 74
+  cd_letter: ""
+  release_date: "2009-06-01"
+  description: 
+  new_release: f
+  cd_number: "6"
+  library_id: 1
+- cd_name: Singer-Songwriter
+  cd_key: MSV05CD07
+  volume_id: 5
+  id: 75
+  cd_letter: ""
+  release_date: "2009-06-01"
+  description: 
+  new_release: f
+  cd_number: "7"
+  library_id: 1
+- cd_name: Singer-Songwriter Non Vocal
+  cd_key: MSV05CD08
+  volume_id: 5
+  id: 76
+  cd_letter: ""
+  release_date: "2009-06-01"
+  description: 
+  new_release: f
+  cd_number: "8"
+  library_id: 1
+- cd_name: Gospel
+  cd_key: MSV05CD09
+  volume_id: 5
+  id: 77
+  cd_letter: ""
+  release_date: "2009-06-01"
+  description: 
+  new_release: f
+  cd_number: "9"
+  library_id: 1
+- cd_name: Gospel
+  cd_key: MSV05CD10
+  volume_id: 5
+  id: 78
+  cd_letter: ""
+  release_date: "2009-06-01"
+  description: 
+  new_release: f
+  cd_number: "10"
+  library_id: 1
+- cd_name: Country
+  cd_key: MSV05CD11
+  volume_id: 5
+  id: 79
+  cd_letter: ""
+  release_date: "2009-06-01"
+  description: 
+  new_release: f
+  cd_number: "11"
+  library_id: 1
+- cd_name: Country Non Vocal
+  cd_key: MSV05CD12
+  volume_id: 5
+  id: 80
+  cd_letter: ""
+  release_date: "2009-06-01"
+  description: 
+  new_release: f
+  cd_number: "12"
+  library_id: 1
+- cd_name: Dance/Disco
+  cd_key: MSV05CD13
+  volume_id: 5
+  id: 81
+  cd_letter: ""
+  release_date: "2009-06-01"
+  description: 
+  new_release: f
+  cd_number: "13"
+  library_id: 1
+- cd_name: Dance/Disco Non Vocal
+  cd_key: MSV05CD14
+  volume_id: 5
+  id: 82
+  cd_letter: ""
+  release_date: "2009-06-01"
+  description: 
+  new_release: f
+  cd_number: "14"
+  library_id: 1
+- cd_name: Rap
+  cd_key: MSV05CD15
+  volume_id: 5
+  id: 83
+  cd_letter: ""
+  release_date: "2009-06-01"
+  description: 
+  new_release: f
+  cd_number: "15"
+  library_id: 1
+- cd_name: Rap Non Vocal
+  cd_key: MSV05CD16
+  volume_id: 5
+  id: 84
+  cd_letter: ""
+  release_date: "2009-06-01"
+  description: 
+  new_release: f
+  cd_number: "16"
+  library_id: 1
+- cd_name: Swing/Lounge/Jazz
+  cd_key: MSV05CD17
+  volume_id: 5
+  id: 85
+  cd_letter: ""
+  release_date: "2009-06-01"
+  description: 
+  new_release: f
+  cd_number: "17"
+  library_id: 1
+- cd_name: Swing/Lounge/Jazz Non Vocal
+  cd_key: MSV05CD18
+  volume_id: 5
+  id: 86
+  cd_letter: ""
+  release_date: "2009-06-01"
+  description: 
+  new_release: f
+  cd_number: "18"
+  library_id: 1
+- cd_name: Latin
+  cd_key: MSV05CD19
+  volume_id: 5
+  id: 87
+  cd_letter: ""
+  release_date: "2009-06-01"
+  description: 
+  new_release: f
+  cd_number: "19"
+  library_id: 1
+- cd_name: Latin Non Vocal
+  cd_key: MSV05CD20
+  volume_id: 5
+  id: 88
+  cd_letter: ""
+  release_date: "2009-06-01"
+  description: 
+  new_release: f
+  cd_number: "20"
+  library_id: 1
+- cd_name: Techno
+  cd_key: MSV05CD21
+  volume_id: 5
+  id: 89
+  cd_letter: ""
+  release_date: "2009-06-01"
+  description: 
+  new_release: f
+  cd_number: "21"
+  library_id: 1
+- cd_name: Cocktail/Piano
+  cd_key: MSV05CD22
+  volume_id: 5
+  id: 90
+  cd_letter: ""
+  release_date: "2009-06-01"
+  description: 
+  new_release: f
+  cd_number: "22"
+  library_id: 1
+- cd_name: Rock/Alternative
+  cd_key: MSV06CD01
+  volume_id: 6
+  id: 91
+  cd_letter: ""
+  release_date: "2009-07-01"
+  description: 
+  new_release: f
+  cd_number: "1"
+  library_id: 1
+- cd_name: Rock/Alternative Non Vocal
+  cd_key: MSV06CD02
+  volume_id: 6
+  id: 92
+  cd_letter: ""
+  release_date: "2009-07-01"
+  description: 
+  new_release: f
+  cd_number: "2"
+  library_id: 1
+- cd_name: Power Pop/Punk/Ska
+  cd_key: MSV06CD03
+  volume_id: 6
+  id: 93
+  cd_letter: ""
+  release_date: "2009-07-01"
+  description: 
+  new_release: f
+  cd_number: "3"
+  library_id: 1
+- cd_name: Power Pop/Punk/Ska Non Vocal
+  cd_key: MSV06CD04
+  volume_id: 6
+  id: 94
+  cd_letter: ""
+  release_date: "2009-07-01"
+  description: 
+  new_release: f
+  cd_number: "4"
+  library_id: 1
+- cd_name: The 50's
+  cd_key: MSV06CD05
+  volume_id: 6
+  id: 95
+  cd_letter: ""
+  release_date: "2009-07-01"
+  description: 
+  new_release: f
+  cd_number: "5"
+  library_id: 1
+- cd_name: The 50's Non Vocal
+  cd_key: MSV06CD06
+  volume_id: 6
+  id: 96
+  cd_letter: ""
+  release_date: "2009-07-01"
+  description: 
+  new_release: f
+  cd_number: "6"
+  library_id: 1
+- cd_name: Soul
+  cd_key: MSV06CD07
+  volume_id: 6
+  id: 97
+  cd_letter: ""
+  release_date: "2009-07-01"
+  description: 
+  new_release: f
+  cd_number: "7"
+  library_id: 1
+- cd_name: Soul Non Vocal
+  cd_key: MSV06CD08
+  volume_id: 6
+  id: 98
+  cd_letter: ""
+  release_date: "2009-07-01"
+  description: 
+  new_release: f
+  cd_number: "8"
+  library_id: 1
+- cd_name: Blues
+  cd_key: MSV06CD09
+  volume_id: 6
+  id: 99
+  cd_letter: ""
+  release_date: "2009-07-01"
+  description: 
+  new_release: f
+  cd_number: "9"
+  library_id: 1
+- cd_name: Blues Non Vocal
+  cd_key: MSV06CD10
+  volume_id: 6
+  id: 100
+  cd_letter: ""
+  release_date: "2009-07-01"
+  description: 
+  new_release: f
+  cd_number: "10"
+  library_id: 1
+- cd_name: Country
+  cd_key: MSV06CD11
+  volume_id: 6
+  id: 101
+  cd_letter: ""
+  release_date: "2009-07-01"
+  description: 
+  new_release: f
+  cd_number: "11"
+  library_id: 1
+- cd_name: Country Non Vocal
+  cd_key: MSV06CD12
+  volume_id: 6
+  id: 102
+  cd_letter: ""
+  release_date: "2009-07-01"
+  description: 
+  new_release: f
+  cd_number: "12"
+  library_id: 1
+- cd_name: Dance/House
+  cd_key: MSV06CD13
+  volume_id: 6
+  id: 103
+  cd_letter: ""
+  release_date: "2009-07-01"
+  description: 
+  new_release: f
+  cd_number: "13"
+  library_id: 1
+- cd_name: Dance/House Non Vocal
+  cd_key: MSV06CD14
+  volume_id: 6
+  id: 104
+  cd_letter: ""
+  release_date: "2009-07-01"
+  description: 
+  new_release: f
+  cd_number: "14"
+  library_id: 1
+- cd_name: Rap/Hip-Hop
+  cd_key: MSV06CD15
+  volume_id: 6
+  id: 105
+  cd_letter: ""
+  release_date: "2009-07-01"
+  description: 
+  new_release: f
+  cd_number: "15"
+  library_id: 1
+- cd_name: Rap/Hip-Hop Non Vocal
+  cd_key: MSV06CD16
+  volume_id: 6
+  id: 106
+  cd_letter: ""
+  release_date: "2009-07-01"
+  description: 
+  new_release: f
+  cd_number: "16"
+  library_id: 1
+- cd_name: Big Band/Lounge/Jazz
+  cd_key: MSV06CD17
+  volume_id: 6
+  id: 107
+  cd_letter: ""
+  release_date: "2009-07-01"
+  description: 
+  new_release: f
+  cd_number: "17"
+  library_id: 1
+- cd_name: Big Band/Lounge/Jazz Non Vocal
+  cd_key: MSV06CD18
+  volume_id: 6
+  id: 108
+  cd_letter: ""
+  release_date: "2009-07-01"
+  description: 
+  new_release: f
+  cd_number: "18"
+  library_id: 1
+- cd_name: Techno 1
+  cd_key: MSV06CD19
+  volume_id: 6
+  id: 109
+  cd_letter: ""
+  release_date: "2009-07-01"
+  description: 
+  new_release: f
+  cd_number: "19"
+  library_id: 1
+- cd_name: Techno 2
+  cd_key: MSV06CD20
+  volume_id: 6
+  id: 110
+  cd_letter: ""
+  release_date: "2009-07-01"
+  description: 
+  new_release: f
+  cd_number: "20"
+  library_id: 1
+- cd_name: Extreme Guitar
+  cd_key: MSV06CD21
+  volume_id: 6
+  id: 111
+  cd_letter: ""
+  release_date: "2009-07-01"
+  description: 
+  new_release: f
+  cd_number: "21"
+  library_id: 1
+- cd_name: Cocktail Piano
+  cd_key: MSV06CD22
+  volume_id: 6
+  id: 112
+  cd_letter: ""
+  release_date: "2009-07-01"
+  description: 
+  new_release: f
+  cd_number: "22"
+  library_id: 1
+- cd_name: Rock/Metal/Grunge
+  cd_key: MSV07CD01
+  volume_id: 7
+  id: 113
+  cd_letter: ""
+  release_date: "2009-07-31"
+  description: 
+  new_release: f
+  cd_number: "1"
+  library_id: 1
+- cd_name: Rock/Metal/Grunge Non Vocal
+  cd_key: MSV07CD02
+  volume_id: 7
+  id: 114
+  cd_letter: ""
+  release_date: "2009-07-31"
+  description: 
+  new_release: f
+  cd_number: "2"
+  library_id: 1
+- cd_name: Alternative/Power Pop
+  cd_key: MSV07CD03
+  volume_id: 7
+  id: 115
+  cd_letter: ""
+  release_date: "2009-07-31"
+  description: 
+  new_release: f
+  cd_number: "3"
+  library_id: 1
+- cd_name: Alternative/Power Pop Non Vocal
+  cd_key: MSV07CD04
+  volume_id: 7
+  id: 116
+  cd_letter: ""
+  release_date: "2009-07-31"
+  description: 
+  new_release: f
+  cd_number: "4"
+  library_id: 1
+- cd_name: The 70's
+  cd_key: MSV07CD05
+  volume_id: 7
+  id: 117
+  cd_letter: ""
+  release_date: "2009-07-31"
+  description: 
+  new_release: f
+  cd_number: "5"
+  library_id: 1
+- cd_name: The 70's Non Vocal
+  cd_key: MSV07CD06
+  volume_id: 7
+  id: 118
+  cd_letter: ""
+  release_date: "2009-07-31"
+  description: 
+  new_release: f
+  cd_number: "6"
+  library_id: 1
+- cd_name: Singer-Songwriter
+  cd_key: MSV07CD07
+  volume_id: 7
+  id: 119
+  cd_letter: ""
+  release_date: "2009-07-31"
+  description: 
+  new_release: f
+  cd_number: "7"
+  library_id: 1
+- cd_name: Singer-Songwriter Non Vocal
+  cd_key: MSV07CD08
+  volume_id: 7
+  id: 120
+  cd_letter: ""
+  release_date: "2009-07-31"
+  description: 
+  new_release: f
+  cd_number: "8"
+  library_id: 1
+- cd_name: Exotic Lands
+  cd_key: MSV07CD09
+  volume_id: 7
+  id: 121
+  cd_letter: ""
+  release_date: "2009-07-31"
+  description: 
+  new_release: f
+  cd_number: "9"
+  library_id: 1
+- cd_name: Exotic Lands Non Vocal
+  cd_key: MSV07CD10
+  volume_id: 7
+  id: 122
+  cd_letter: ""
+  release_date: "2009-07-31"
+  description: 
+  new_release: f
+  cd_number: "10"
+  library_id: 1
+- cd_name: Country
+  cd_key: MSV07CD11
+  volume_id: 7
+  id: 123
+  cd_letter: ""
+  release_date: "2009-07-31"
+  description: 
+  new_release: f
+  cd_number: "11"
+  library_id: 1
+- cd_name: Country Non Vocal
+  cd_key: MSV07CD12
+  volume_id: 7
+  id: 124
+  cd_letter: ""
+  release_date: "2009-07-31"
+  description: 
+  new_release: f
+  cd_number: "12"
+  library_id: 1
+- cd_name: Dance
+  cd_key: MSV07CD13
+  volume_id: 7
+  id: 125
+  cd_letter: ""
+  release_date: "2009-07-31"
+  description: 
+  new_release: f
+  cd_number: "13"
+  library_id: 1
+- cd_name: Dance Non Vocal
+  cd_key: MSV07CD14
+  volume_id: 7
+  id: 126
+  cd_letter: ""
+  release_date: "2009-07-31"
+  description: 
+  new_release: f
+  cd_number: "14"
+  library_id: 1
+- cd_name: Rap
+  cd_key: MSV07CD15
+  volume_id: 7
+  id: 127
+  cd_letter: ""
+  release_date: "2009-07-31"
+  description: 
+  new_release: f
+  cd_number: "15"
+  library_id: 1
+- cd_name: Rap Non Vocal
+  cd_key: MSV07CD16
+  volume_id: 7
+  id: 128
+  cd_letter: ""
+  release_date: "2009-07-31"
+  description: 
+  new_release: f
+  cd_number: "16"
+  library_id: 1
+- cd_name: Big Band/Swing/Lounge
+  cd_key: MSV07CD17
+  volume_id: 7
+  id: 129
+  cd_letter: ""
+  release_date: "2009-07-31"
+  description: 
+  new_release: f
+  cd_number: "17"
+  library_id: 1
+- cd_name: Big Band/Swing/Lounge Non Vocal
+  cd_key: MSV07CD18
+  volume_id: 7
+  id: 130
+  cd_letter: ""
+  release_date: "2009-07-31"
+  description: 
+  new_release: f
+  cd_number: "18"
+  library_id: 1
+- cd_name: Techno 1
+  cd_key: MSV07CD19
+  volume_id: 7
+  id: 131
+  cd_letter: ""
+  release_date: "2009-07-31"
+  description: 
+  new_release: f
+  cd_number: "19"
+  library_id: 1
+- cd_name: Techno 2
+  cd_key: MSV07CD20
+  volume_id: 7
+  id: 132
+  cd_letter: ""
+  release_date: "2009-07-31"
+  description: 
+  new_release: f
+  cd_number: "20"
+  library_id: 1
+- cd_name: Jazz Combo
+  cd_key: MSV07CD21
+  volume_id: 7
+  id: 133
+  cd_letter: ""
+  release_date: "2009-07-31"
+  description: 
+  new_release: f
+  cd_number: "21"
+  library_id: 1
+- cd_name: Cocktail Piano
+  cd_key: MSV07CD22
+  volume_id: 7
+  id: 134
+  cd_letter: ""
+  release_date: "2009-07-31"
+  description: 
+  new_release: f
+  cd_number: "22"
+  library_id: 1
+- cd_name: Hard Rock
+  cd_key: MSV08CD01
+  volume_id: 8
+  id: 135
+  cd_letter: ""
+  release_date: "2009-08-30"
+  description: 
+  new_release: f
+  cd_number: "1"
+  library_id: 1
+- cd_name: Hard Rock Non Vocal
+  cd_key: MSV08CD02
+  volume_id: 8
+  id: 136
+  cd_letter: ""
+  release_date: "2009-08-30"
+  description: 
+  new_release: f
+  cd_number: "2"
+  library_id: 1
+- cd_name: Alternative/Power Pop
+  cd_key: MSV08CD03
+  volume_id: 8
+  id: 137
+  cd_letter: ""
+  release_date: "2009-08-30"
+  description: 
+  new_release: f
+  cd_number: "3"
+  library_id: 1
+- cd_name: Alternative/Power Pop Non Vocal
+  cd_key: MSV08CD04
+  volume_id: 8
+  id: 138
+  cd_letter: ""
+  release_date: "2009-08-30"
+  description: 
+  new_release: f
+  cd_number: "4"
+  library_id: 1
+- cd_name: The 80's
+  cd_key: MSV08CD05
+  volume_id: 8
+  id: 139
+  cd_letter: ""
+  release_date: "2009-08-30"
+  description: 
+  new_release: f
+  cd_number: "5"
+  library_id: 1
+- cd_name: The 80's Non Vocal
+  cd_key: MSV08CD06
+  volume_id: 8
+  id: 140
+  cd_letter: ""
+  release_date: "2009-08-30"
+  description: 
+  new_release: f
+  cd_number: "6"
+  library_id: 1
+- cd_name: Singer-Songwriter
+  cd_key: MSV08CD07
+  volume_id: 8
+  id: 141
+  cd_letter: ""
+  release_date: "2009-08-30"
+  description: 
+  new_release: f
+  cd_number: "7"
+  library_id: 1
+- cd_name: Singer-Songwriter Non Vocal
+  cd_key: MSV08CD08
+  volume_id: 8
+  id: 142
+  cd_letter: ""
+  release_date: "2009-08-30"
+  description: 
+  new_release: f
+  cd_number: "8"
+  library_id: 1
+- cd_name: Blues
+  cd_key: MSV08CD09
+  volume_id: 8
+  id: 143
+  cd_letter: ""
+  release_date: "2009-08-30"
+  description: 
+  new_release: f
+  cd_number: "9"
+  library_id: 1
+- cd_name: Blues Non Vocal
+  cd_key: MSV08CD10
+  volume_id: 8
+  id: 144
+  cd_letter: ""
+  release_date: "2009-08-30"
+  description: 
+  new_release: f
+  cd_number: "10"
+  library_id: 1
+- cd_name: Latin
+  cd_key: MSV08CD11
+  volume_id: 8
+  id: 145
+  cd_letter: ""
+  release_date: "2009-08-30"
+  description: 
+  new_release: f
+  cd_number: "11"
+  library_id: 1
+- cd_name: Latin Non Vocal
+  cd_key: MSV08CD12
+  volume_id: 8
+  id: 146
+  cd_letter: ""
+  release_date: "2009-08-30"
+  description: 
+  new_release: f
+  cd_number: "12"
+  library_id: 1
+- cd_name: Dance
+  cd_key: MSV08CD13
+  volume_id: 8
+  id: 147
+  cd_letter: ""
+  release_date: "2009-08-30"
+  description: 
+  new_release: f
+  cd_number: "13"
+  library_id: 1
+- cd_name: Dance Non Vocal
+  cd_key: MSV08CD14
+  volume_id: 8
+  id: 148
+  cd_letter: ""
+  release_date: "2009-08-30"
+  description: 
+  new_release: f
+  cd_number: "14"
+  library_id: 1
+- cd_name: Rap/ R & B
+  cd_key: MSV08CD15
+  volume_id: 8
+  id: 149
+  cd_letter: ""
+  release_date: "2009-08-30"
+  description: 
+  new_release: f
+  cd_number: "15"
+  library_id: 1
+- cd_name: Rap/ R & B Non Vocal
+  cd_key: MSV08CD16
+  volume_id: 8
+  id: 150
+  cd_letter: ""
+  release_date: "2009-08-30"
+  description: 
+  new_release: f
+  cd_number: "16"
+  library_id: 1
+- cd_name: Big Band/Lounge/Jazz
+  cd_key: MSV08CD17
+  volume_id: 8
+  id: 151
+  cd_letter: ""
+  release_date: "2009-08-30"
+  description: 
+  new_release: f
+  cd_number: "17"
+  library_id: 1
+- cd_name: Big Band/Lounge/Jazz Non Vocal
+  cd_key: MSV08CD18
+  volume_id: 8
+  id: 152
+  cd_letter: ""
+  release_date: "2009-08-30"
+  description: 
+  new_release: f
+  cd_number: "18"
+  library_id: 1
+- cd_name: Techno 1
+  cd_key: MSV08CD19
+  volume_id: 8
+  id: 153
+  cd_letter: ""
+  release_date: "2009-08-30"
+  description: 
+  new_release: f
+  cd_number: "19"
+  library_id: 1
+- cd_name: Techno 2
+  cd_key: MSV08CD20
+  volume_id: 8
+  id: 154
+  cd_letter: ""
+  release_date: "2009-08-30"
+  description: 
+  new_release: f
+  cd_number: "20"
+  library_id: 1
+- cd_name: Acoustica
+  cd_key: MSV08CD21
+  volume_id: 8
+  id: 155
+  cd_letter: ""
+  release_date: "2009-08-30"
+  description: 
+  new_release: f
+  cd_number: "21"
+  library_id: 1
+- cd_name: Cocktail Piano
+  cd_key: MSV08CD22
+  volume_id: 8
+  id: 156
+  cd_letter: ""
+  release_date: "2009-08-30"
+  description: 
+  new_release: f
+  cd_number: "22"
+  library_id: 1
+- cd_name: Rock/Metal/Grunge
+  cd_key: MSV09CD01
+  volume_id: 9
+  id: 157
+  cd_letter: ""
+  release_date: "2009-09-29"
+  description: 
+  new_release: f
+  cd_number: "1"
+  library_id: 1
+- cd_name: Rock/Metal/Grunge Non Vocal
+  cd_key: MSV09CD02
+  volume_id: 9
+  id: 158
+  cd_letter: ""
+  release_date: "2009-09-29"
+  description: 
+  new_release: f
+  cd_number: "2"
+  library_id: 1
+- cd_name: Alternative/Power Pop
+  cd_key: MSV09CD03
+  volume_id: 9
+  id: 159
+  cd_letter: ""
+  release_date: "2009-09-29"
+  description: 
+  new_release: f
+  cd_number: "3"
+  library_id: 1
+- cd_name: Alternative/Power Pop Non Vocal
+  cd_key: MSV09CD04
+  volume_id: 9
+  id: 160
+  cd_letter: ""
+  release_date: "2009-09-29"
+  description: 
+  new_release: f
+  cd_number: "4"
+  library_id: 1
+- cd_name: Party Mix
+  cd_key: MSV09CD05
+  volume_id: 9
+  id: 161
+  cd_letter: ""
+  release_date: "2009-09-29"
+  description: 
+  new_release: f
+  cd_number: "5"
+  library_id: 1
+- cd_name: Ultimate Chill
+  cd_key: MSV09CD06
+  volume_id: 9
+  id: 162
+  cd_letter: ""
+  release_date: "2009-09-29"
+  description: 
+  new_release: f
+  cd_number: "6"
+  library_id: 1
+- cd_name: Singer-Songwriter
+  cd_key: MSV09CD07
+  volume_id: 9
+  id: 163
+  cd_letter: ""
+  release_date: "2009-09-29"
+  description: 
+  new_release: f
+  cd_number: "7"
+  library_id: 1
+- cd_name: Singer-Songwriter Non Vocal
+  cd_key: MSV09CD08
+  volume_id: 9
+  id: 164
+  cd_letter: ""
+  release_date: "2009-09-29"
+  description: 
+  new_release: f
+  cd_number: "8"
+  library_id: 1
+- cd_name: Reggae
+  cd_key: MSV09CD09
+  volume_id: 9
+  id: 165
+  cd_letter: ""
+  release_date: "2009-09-29"
+  description: 
+  new_release: f
+  cd_number: "9"
+  library_id: 1
+- cd_name: Reggae Non Vocal
+  cd_key: MSV09CD10
+  volume_id: 9
+  id: 166
+  cd_letter: ""
+  release_date: "2009-09-29"
+  description: 
+  new_release: f
+  cd_number: "10"
+  library_id: 1
+- cd_name: Country
+  cd_key: MSV09CD11
+  volume_id: 9
+  id: 167
+  cd_letter: ""
+  release_date: "2009-09-29"
+  description: 
+  new_release: f
+  cd_number: "11"
+  library_id: 1
+- cd_name: Country Non Vocal
+  cd_key: MSV09CD12
+  volume_id: 9
+  id: 168
+  cd_letter: ""
+  release_date: "2009-09-29"
+  description: 
+  new_release: f
+  cd_number: "12"
+  library_id: 1
+- cd_name: Dance/Pop
+  cd_key: MSV09CD13
+  volume_id: 9
+  id: 169
+  cd_letter: ""
+  release_date: "2009-09-29"
+  description: 
+  new_release: f
+  cd_number: "13"
+  library_id: 1
+- cd_name: Dance/Pop Non Vocal
+  cd_key: MSV09CD14
+  volume_id: 9
+  id: 170
+  cd_letter: ""
+  release_date: "2009-09-29"
+  description: 
+  new_release: f
+  cd_number: "14"
+  library_id: 1
+- cd_name: Rap
+  cd_key: MSV09CD15
+  volume_id: 9
+  id: 171
+  cd_letter: ""
+  release_date: "2009-09-29"
+  description: 
+  new_release: f
+  cd_number: "15"
+  library_id: 1
+- cd_name: Rap Non Vocal
+  cd_key: MSV09CD16
+  volume_id: 9
+  id: 172
+  cd_letter: ""
+  release_date: "2009-09-29"
+  description: 
+  new_release: f
+  cd_number: "16"
+  library_id: 1
+- cd_name: Big Band/Swing/Lounge
+  cd_key: MSV09CD17
+  volume_id: 9
+  id: 173
+  cd_letter: ""
+  release_date: "2009-09-29"
+  description: 
+  new_release: f
+  cd_number: "17"
+  library_id: 1
+- cd_name: Big Band/Swing/Lounge Non Vocal
+  cd_key: MSV09CD18
+  volume_id: 9
+  id: 174
+  cd_letter: ""
+  release_date: "2009-09-29"
+  description: 
+  new_release: f
+  cd_number: "18"
+  library_id: 1
+- cd_name: Industrial
+  cd_key: MSV09CD19
+  volume_id: 9
+  id: 175
+  cd_letter: ""
+  release_date: "2009-09-29"
+  description: 
+  new_release: f
+  cd_number: "19"
+  library_id: 1
+- cd_name: Electronica
+  cd_key: MSV09CD20
+  volume_id: 9
+  id: 176
+  cd_letter: ""
+  release_date: "2009-09-29"
+  description: 
+  new_release: f
+  cd_number: "20"
+  library_id: 1
+- cd_name: Elevator Music
+  cd_key: MSV09CD21
+  volume_id: 9
+  id: 177
+  cd_letter: ""
+  release_date: "2009-09-29"
+  description: 
+  new_release: f
+  cd_number: "21"
+  library_id: 1
+- cd_name: Cocktail Piano
+  cd_key: MSV09CD22
+  volume_id: 9
+  id: 178
+  cd_letter: ""
+  release_date: "2009-09-29"
+  description: 
+  new_release: f
+  cd_number: "22"
+  library_id: 1
+- cd_name: Rock/Metal/Grunge
+  cd_key: MSV10CD01
+  volume_id: 10
+  id: 179
+  cd_letter: ""
+  release_date: "2009-10-29"
+  description: 
+  new_release: f
+  cd_number: "1"
+  library_id: 1
+- cd_name: Rock/Metal/Grunge Non Vocal
+  cd_key: MSV10CD02
+  volume_id: 10
+  id: 180
+  cd_letter: ""
+  release_date: "2009-10-29"
+  description: 
+  new_release: f
+  cd_number: "2"
+  library_id: 1
+- cd_name: Alternative/Power Pop
+  cd_key: MSV10CD03
+  volume_id: 10
+  id: 181
+  cd_letter: ""
+  release_date: "2009-10-29"
+  description: 
+  new_release: f
+  cd_number: "3"
+  library_id: 1
+- cd_name: Alternative/Power Pop Non Vocal
+  cd_key: MSV10CD04
+  volume_id: 10
+  id: 182
+  cd_letter: ""
+  release_date: "2009-10-29"
+  description: 
+  new_release: f
+  cd_number: "4"
+  library_id: 1
+- cd_name: Party Mix
+  cd_key: MSV10CD05
+  volume_id: 10
+  id: 183
+  cd_letter: ""
+  release_date: "2009-10-29"
+  description: 
+  new_release: f
+  cd_number: "5"
+  library_id: 1
+- cd_name: Extreme Guitar
+  cd_key: MSV10CD06
+  volume_id: 10
+  id: 184
+  cd_letter: ""
+  release_date: "2009-10-29"
+  description: 
+  new_release: f
+  cd_number: "6"
+  library_id: 1
+- cd_name: Singer-Songwriter
+  cd_key: MSV10CD07
+  volume_id: 10
+  id: 185
+  cd_letter: ""
+  release_date: "2009-10-29"
+  description: 
+  new_release: f
+  cd_number: "7"
+  library_id: 1
+- cd_name: Singer-Songwriter Non Vocal
+  cd_key: MSV10CD08
+  volume_id: 10
+  id: 186
+  cd_letter: ""
+  release_date: "2009-10-29"
+  description: 
+  new_release: f
+  cd_number: "8"
+  library_id: 1
+- cd_name: Soul
+  cd_key: MSV10CD09
+  volume_id: 10
+  id: 187
+  cd_letter: ""
+  release_date: "2009-10-29"
+  description: 
+  new_release: f
+  cd_number: "9"
+  library_id: 1
+- cd_name: Soul Non Vocal
+  cd_key: MSV10CD10
+  volume_id: 10
+  id: 188
+  cd_letter: ""
+  release_date: "2009-10-29"
+  description: 
+  new_release: f
+  cd_number: "10"
+  library_id: 1
+- cd_name: Country
+  cd_key: MSV10CD11
+  volume_id: 10
+  id: 189
+  cd_letter: ""
+  release_date: "2009-10-29"
+  description: 
+  new_release: f
+  cd_number: "11"
+  library_id: 1
+- cd_name: Country Non Vocal
+  cd_key: MSV10CD12
+  volume_id: 10
+  id: 190
+  cd_letter: ""
+  release_date: "2009-10-29"
+  description: 
+  new_release: f
+  cd_number: "12"
+  library_id: 1
+- cd_name: Dance/Pop
+  cd_key: MSV10CD13
+  volume_id: 10
+  id: 191
+  cd_letter: ""
+  release_date: "2009-10-29"
+  description: 
+  new_release: f
+  cd_number: "13"
+  library_id: 1
+- cd_name: Dance/Pop Non Vocal
+  cd_key: MSV10CD14
+  volume_id: 10
+  id: 192
+  cd_letter: ""
+  release_date: "2009-10-29"
+  description: 
+  new_release: f
+  cd_number: "14"
+  library_id: 1
+- cd_name: Rap
+  cd_key: MSV10CD15
+  volume_id: 10
+  id: 193
+  cd_letter: ""
+  release_date: "2009-10-29"
+  description: ""
+  new_release: f
+  cd_number: "15"
+  library_id: 1
+- cd_name: Rap Non Vocal
+  cd_key: MSV10CD16
+  volume_id: 10
+  id: 194
+  cd_letter: ""
+  release_date: "2009-10-29"
+  description: 
+  new_release: f
+  cd_number: "16"
+  library_id: 1
+- cd_name: Big Band/Jazz/Lounge
+  cd_key: MSV10CD17
+  volume_id: 10
+  id: 195
+  cd_letter: ""
+  release_date: "2009-10-29"
+  description: 
+  new_release: f
+  cd_number: "17"
+  library_id: 1
+- cd_name: Big Band/Jazz/Lounge Non Vocal
+  cd_key: MSV10CD18
+  volume_id: 10
+  id: 196
+  cd_letter: ""
+  release_date: "2009-10-29"
+  description: 
+  new_release: f
+  cd_number: "18"
+  library_id: 1
+- cd_name: Industrial
+  cd_key: MSV10CD19
+  volume_id: 10
+  id: 197
+  cd_letter: ""
+  release_date: "2009-10-29"
+  description: 
+  new_release: f
+  cd_number: "19"
+  library_id: 1
+- cd_name: Electronica
+  cd_key: MSV10CD20
+  volume_id: 10
+  id: 198
+  cd_letter: ""
+  release_date: "2009-10-29"
+  description: 
+  new_release: f
+  cd_number: "20"
+  library_id: 1
+- cd_name: Reality Show
+  cd_key: MSV10CD21
+  volume_id: 10
+  id: 199
+  cd_letter: ""
+  release_date: "2009-10-29"
+  description: 
+  new_release: f
+  cd_number: "21"
+  library_id: 1
+- cd_name: Cocktail Piano
+  cd_key: MSV10CD22
+  volume_id: 10
+  id: 200
+  cd_letter: ""
+  release_date: "2009-10-29"
+  description: 
+  new_release: f
+  cd_number: "22"
+  library_id: 1
+- cd_name: Classic Rock
+  cd_key: MSV11CD01
+  volume_id: 11
+  id: 201
+  cd_letter: ""
+  release_date: "2009-11-28"
+  description: 
+  new_release: f
+  cd_number: "1"
+  library_id: 1
+- cd_name: Classic Rock Non Vocal
+  cd_key: MSV11CD02
+  volume_id: 11
+  id: 202
+  cd_letter: ""
+  release_date: "2009-11-28"
+  description: 
+  new_release: f
+  cd_number: "2"
+  library_id: 1
+- cd_name: Alternative/Power Pop
+  cd_key: MSV11CD03
+  volume_id: 11
+  id: 203
+  cd_letter: ""
+  release_date: "2009-11-28"
+  description: 
+  new_release: f
+  cd_number: "3"
+  library_id: 1
+- cd_name: Alternative/Power Pop Non Vocal
+  cd_key: MSV11CD04
+  volume_id: 11
+  id: 204
+  cd_letter: ""
+  release_date: "2009-11-28"
+  description: 
+  new_release: f
+  cd_number: "4"
+  library_id: 1
+- cd_name: Rock Guitar
+  cd_key: MSV11CD05
+  volume_id: 11
+  id: 205
+  cd_letter: ""
+  release_date: "2009-11-28"
+  description: 
+  new_release: f
+  cd_number: "5"
+  library_id: 1
+- cd_name: Extreme Guitar
+  cd_key: MSV11CD06
+  volume_id: 11
+  id: 206
+  cd_letter: ""
+  release_date: "2009-11-28"
+  description: 
+  new_release: f
+  cd_number: "6"
+  library_id: 1
+- cd_name: Singer-Songwriter
+  cd_key: MSV11CD07
+  volume_id: 11
+  id: 207
+  cd_letter: ""
+  release_date: "2009-11-28"
+  description: 
+  new_release: f
+  cd_number: "7"
+  library_id: 1
+- cd_name: Singer-Songwriter Non Vocal
+  cd_key: MSV11CD08
+  volume_id: 11
+  id: 208
+  cd_letter: ""
+  release_date: "2009-11-28"
+  description: 
+  new_release: f
+  cd_number: "8"
+  library_id: 1
+- cd_name: Exotic Lands
+  cd_key: MSV11CD09
+  volume_id: 11
+  id: 209
+  cd_letter: ""
+  release_date: "2009-11-28"
+  description: 
+  new_release: f
+  cd_number: "9"
+  library_id: 1
+- cd_name: Exotic Lands Non Vocal
+  cd_key: MSV11CD10
+  volume_id: 11
+  id: 210
+  cd_letter: ""
+  release_date: "2009-11-28"
+  description: 
+  new_release: f
+  cd_number: "10"
+  library_id: 1
+- cd_name: Latin
+  cd_key: MSV11CD11
+  volume_id: 11
+  id: 211
+  cd_letter: ""
+  release_date: "2009-11-28"
+  description: 
+  new_release: f
+  cd_number: "11"
+  library_id: 1
+- cd_name: Latin Non Vocal
+  cd_key: MSV11CD12
+  volume_id: 11
+  id: 212
+  cd_letter: ""
+  release_date: "2009-11-28"
+  description: 
+  new_release: f
+  cd_number: "12"
+  library_id: 1
+- cd_name: Reggaeton
+  cd_key: MSV11CD13
+  volume_id: 11
+  id: 213
+  cd_letter: ""
+  release_date: "2009-11-28"
+  description: 
+  new_release: f
+  cd_number: "13"
+  library_id: 1
+- cd_name: Reggaeton Non Vocal
+  cd_key: MSV11CD14
+  volume_id: 11
+  id: 214
+  cd_letter: ""
+  release_date: "2009-11-28"
+  description: 
+  new_release: f
+  cd_number: "14"
+  library_id: 1
+- cd_name: Rap
+  cd_key: MSV11CD15
+  volume_id: 11
+  id: 215
+  cd_letter: ""
+  release_date: "2009-11-28"
+  description: 
+  new_release: f
+  cd_number: "15"
+  library_id: 1
+- cd_name: Rap Non Vocal
+  cd_key: MSV11CD16
+  volume_id: 11
+  id: 216
+  cd_letter: ""
+  release_date: "2009-11-28"
+  description: 
+  new_release: f
+  cd_number: "16"
+  library_id: 1
+- cd_name: R & B
+  cd_key: MSV11CD17
+  volume_id: 11
+  id: 217
+  cd_letter: ""
+  release_date: "2009-11-28"
+  description: 
+  new_release: f
+  cd_number: "17"
+  library_id: 1
+- cd_name: R & B Non Vocal
+  cd_key: MSV11CD18
+  volume_id: 11
+  id: 218
+  cd_letter: ""
+  release_date: "2009-11-28"
+  description: 
+  new_release: f
+  cd_number: "18"
+  library_id: 1
+- cd_name: Ultimate Chill/Deep House
+  cd_key: MSV11CD19
+  volume_id: 11
+  id: 219
+  cd_letter: ""
+  release_date: "2009-11-28"
+  description: 
+  new_release: f
+  cd_number: "19"
+  library_id: 1
+- cd_name: Acoustica
+  cd_key: MSV11CD20
+  volume_id: 11
+  id: 220
+  cd_letter: ""
+  release_date: "2009-11-28"
+  description: 
+  new_release: f
+  cd_number: "20"
+  library_id: 1
+- cd_name: Reality Show
+  cd_key: MSV11CD21
+  volume_id: 11
+  id: 221
+  cd_letter: ""
+  release_date: "2009-11-28"
+  description: 
+  new_release: f
+  cd_number: "21"
+  library_id: 1
+- cd_name: Cocktail Piano
+  cd_key: MSV11CD22
+  volume_id: 11
+  id: 222
+  cd_letter: ""
+  release_date: "2009-11-28"
+  description: 
+  new_release: f
+  cd_number: "22"
+  library_id: 1
+- cd_name: Rock/Metal
+  cd_key: MSV12CD01
+  volume_id: 12
+  id: 223
+  cd_letter: ""
+  release_date: "2009-12-28"
+  description: 
+  new_release: f
+  cd_number: "1"
+  library_id: 1
+- cd_name: Rock/Metal Non Vocal
+  cd_key: MSV12CD02
+  volume_id: 12
+  id: 224
+  cd_letter: ""
+  release_date: "2009-12-28"
+  description: 
+  new_release: f
+  cd_number: "2"
+  library_id: 1
+- cd_name: Alternative/Power Pop
+  cd_key: MSV12CD03
+  volume_id: 12
+  id: 225
+  cd_letter: ""
+  release_date: "2009-12-28"
+  description: 
+  new_release: f
+  cd_number: "3"
+  library_id: 1
+- cd_name: Alternative/Power Pop Non Vocal
+  cd_key: MSV12CD04
+  volume_id: 12
+  id: 226
+  cd_letter: ""
+  release_date: "2009-12-28"
+  description: 
+  new_release: f
+  cd_number: "4"
+  library_id: 1
+- cd_name: Southern Rock
+  cd_key: MSV12CD05
+  volume_id: 12
+  id: 227
+  cd_letter: ""
+  release_date: "2009-12-28"
+  description: 
+  new_release: f
+  cd_number: "5"
+  library_id: 1
+- cd_name: Southern Rock Non Vocal
+  cd_key: MSV12CD06
+  volume_id: 12
+  id: 228
+  cd_letter: ""
+  release_date: "2009-12-28"
+  description: 
+  new_release: f
+  cd_number: "6"
+  library_id: 1
+- cd_name: Euro Grooves
+  cd_key: MSV12CD07
+  volume_id: 12
+  id: 229
+  cd_letter: ""
+  release_date: "2009-12-28"
+  description: 
+  new_release: f
+  cd_number: "7"
+  library_id: 1
+- cd_name: Electronica
+  cd_key: MSV12CD08
+  volume_id: 12
+  id: 230
+  cd_letter: ""
+  release_date: "2009-12-28"
+  description: 
+  new_release: f
+  cd_number: "8"
+  library_id: 1
+- cd_name: Mariachi
+  cd_key: MSV12CD09
+  volume_id: 12
+  id: 231
+  cd_letter: ""
+  release_date: "2009-12-28"
+  description: 
+  new_release: f
+  cd_number: "9"
+  library_id: 1
+- cd_name: Mariachi Non Vocal
+  cd_key: MSV12CD10
+  volume_id: 12
+  id: 232
+  cd_letter: ""
+  release_date: "2009-12-28"
+  description: 
+  new_release: f
+  cd_number: "10"
+  library_id: 1
+- cd_name: Country Bluegrass
+  cd_key: MSV12CD11
+  volume_id: 12
+  id: 233
+  cd_letter: ""
+  release_date: "2009-12-28"
+  description: 
+  new_release: f
+  cd_number: "11"
+  library_id: 1
+- cd_name: Country Bluegrass Non Vocal
+  cd_key: MSV12CD12
+  volume_id: 12
+  id: 234
+  cd_letter: ""
+  release_date: "2009-12-28"
+  description: 
+  new_release: f
+  cd_number: "12"
+  library_id: 1
+- cd_name: Dance Pop
+  cd_key: MSV12CD13
+  volume_id: 12
+  id: 235
+  cd_letter: ""
+  release_date: "2009-12-28"
+  description: 
+  new_release: f
+  cd_number: "13"
+  library_id: 1
+- cd_name: Dance Pop Non Vocal
+  cd_key: MSV12CD14
+  volume_id: 12
+  id: 236
+  cd_letter: ""
+  release_date: "2009-12-28"
+  description: 
+  new_release: f
+  cd_number: "14"
+  library_id: 1
+- cd_name: Rap
+  cd_key: MSV12CD15
+  volume_id: 12
+  id: 237
+  cd_letter: ""
+  release_date: "2009-12-28"
+  description: 
+  new_release: f
+  cd_number: "15"
+  library_id: 1
+- cd_name: Rap Non Vocal
+  cd_key: MSV12CD16
+  volume_id: 12
+  id: 238
+  cd_letter: ""
+  release_date: "2009-12-28"
+  description: 
+  new_release: f
+  cd_number: "16"
+  library_id: 1
+- cd_name: Marching Band
+  cd_key: MSV12CD17
+  volume_id: 12
+  id: 239
+  cd_letter: ""
+  release_date: "2009-12-28"
+  description: 
+  new_release: f
+  cd_number: "17"
+  library_id: 1
+- cd_name: Drum Drops
+  cd_key: MSV12CD18
+  volume_id: 12
+  id: 240
+  cd_letter: ""
+  release_date: "2009-12-28"
+  description: 
+  new_release: f
+  cd_number: "18"
+  library_id: 1
+- cd_name: News Themes
+  cd_key: MSV12CD19
+  volume_id: 12
+  id: 241
+  cd_letter: 
+  release_date: "2009-12-28"
+  description: 
+  new_release: f
+  cd_number: "19"
+  library_id: 1
+- cd_name: Reality Show
+  cd_key: MSV12CD20
+  volume_id: 12
+  id: 242
+  cd_letter: ""
+  release_date: "2009-12-28"
+  description: 
+  new_release: f
+  cd_number: "20"
+  library_id: 1
+- cd_name: Elevator Music
+  cd_key: MSV12CD21
+  volume_id: 12
+  id: 243
+  cd_letter: ""
+  release_date: "2009-12-28"
+  description: 
+  new_release: f
+  cd_number: "21"
+  library_id: 1
+- cd_name: Cocktail Piano
+  cd_key: MSV12CD22
+  volume_id: 12
+  id: 244
+  cd_letter: ""
+  release_date: "2009-12-28"
+  description: 
+  new_release: f
+  cd_number: "22"
+  library_id: 1
+- cd_name: Bangin' Beats Volume 1
+  cd_key: TSV1_CD01
+  volume_id: 13
+  id: 245
+  cd_letter: ""
+  release_date: "2010-01-17"
+  description: 
+  new_release: f
+  cd_number: "1"
+  library_id: 1
+- cd_name: Bangin' Beats Volume 2
+  cd_key: TSV1_CD02
+  volume_id: 13
+  id: 246
+  cd_letter: ""
+  release_date: "2010-01-17"
+  description: 
+  new_release: f
+  cd_number: "2"
+  library_id: 1
+- cd_name: Twisted Beats Volume 1
+  cd_key: TSV2_CD01
+  volume_id: 14
+  id: 247
+  cd_letter: ""
+  release_date: "2010-01-17"
+  description: 
+  new_release: f
+  cd_number: "1"
+  library_id: 1
+- cd_name: Bling Things
+  cd_key: CELEBTHEMEBT1
+  volume_id: 15
+  id: 248
+  cd_letter: ""
+  release_date: "1999-12-31"
+  description: 
+  new_release: f
+  cd_number: "1"
+  library_id: 1
+- cd_name: Bling Things
+  cd_key: CELEBTHEMEBT2
+  volume_id: 15
+  id: 249
+  cd_letter: ""
+  release_date: "1999-12-31"
+  description: 
+  new_release: f
+  cd_number: "2"
+  library_id: 1
+- cd_name: Events
+  cd_key: CELEBTHEMEEV1
+  volume_id: 16
+  id: 250
+  cd_letter: ""
+  release_date: "1999-12-31"
+  description: 
+  new_release: f
+  cd_number: "1"
+  library_id: 1
+- cd_name: Events
+  cd_key: CELEBTHEMEEV2
+  volume_id: 16
+  id: 251
+  cd_letter: ""
+  release_date: "1999-12-31"
+  description: 
+  new_release: f
+  cd_number: "2"
+  library_id: 1
+- cd_name: Fashion
+  cd_key: CELEBTHEMEF1
+  volume_id: 17
+  id: 252
+  cd_letter: ""
+  release_date: "1999-12-31"
+  description: 
+  new_release: f
+  cd_number: "1"
+  library_id: 1
+- cd_name: Fashion
+  cd_key: CELEBTHEMEF2
+  volume_id: 17
+  id: 253
+  cd_letter: ""
+  release_date: "1999-12-31"
+  description: 
+  new_release: f
+  cd_number: "2"
+  library_id: 1
+- cd_name: Relationships
+  cd_key: CELEBTHEMER1
+  volume_id: 18
+  id: 254
+  cd_letter: ""
+  release_date: "1999-12-31"
+  description: 
+  new_release: f
+  cd_number: "1"
+  library_id: 1
+- cd_name: Relationships
+  cd_key: CELEBTHEMER2
+  volume_id: 18
+  id: 255
+  cd_letter: ""
+  release_date: "1999-12-31"
+  description: 
+  new_release: f
+  cd_number: "2"
+  library_id: 1
+- cd_name: "Trailer & Promotional "
+  cd_key: MSTPM_1
+  volume_id: 19
+  id: 256
+  cd_letter: ""
+  release_date: "2009-03-23"
+  description: ""
+  new_release: f
+  cd_number: "1"
+  library_id: 1
+- cd_name: "Trailer & Promotional "
+  cd_key: MSTPM_2
+  volume_id: 19
+  id: 257
+  cd_letter: ""
+  release_date: "2009-03-23"
+  description: ""
+  new_release: f
+  cd_number: "2"
+  library_id: 1
+- cd_name: "Trailer & Promotional "
+  cd_key: MSTPM_3
+  volume_id: 19
+  id: 258
+  cd_letter: ""
+  release_date: "2009-03-23"
+  description: ""
+  new_release: f
+  cd_number: "3"
+  library_id: 1
+- cd_name: Holiday Music
+  cd_key: MSHM_1
+  volume_id: 20
+  id: 259
+  cd_letter: ""
+  release_date: "2009-03-23"
+  description: ""
+  new_release: f
+  cd_number: "1"
+  library_id: 1
+- cd_name: Holiday Music
+  cd_key: MSHM_2
+  volume_id: 20
+  id: 260
+  cd_letter: ""
+  release_date: "2009-03-23"
+  description: ""
+  new_release: f
+  cd_number: "2"
+  library_id: 1
+- cd_name: Holiday Music
+  cd_key: MSHM_3A
+  volume_id: 20
+  id: 261
+  cd_letter: A
+  release_date: "2009-03-23"
+  description: ""
+  new_release: f
+  cd_number: "3"
+  library_id: 1
+- cd_name: Holiday Music
+  cd_key: MSHM_3B
+  volume_id: 20
+  id: 262
+  cd_letter: B
+  release_date: "2009-03-23"
+  description: ""
+  new_release: f
+  cd_number: "3"
+  library_id: 1
+- cd_name: Holiday Music
+  cd_key: MSHM_4A
+  volume_id: 20
+  id: 263
+  cd_letter: A
+  release_date: "2009-03-23"
+  description: ""
+  new_release: f
+  cd_number: "4"
+  library_id: 1
+- cd_name: Holiday Music
+  cd_key: MSHM_4B
+  volume_id: 20
+  id: 264
+  cd_letter: B
+  release_date: "2009-03-23"
+  description: ""
+  new_release: f
+  cd_number: "4"
+  library_id: 1
+- 
+- 
+- cd_name: Rock/Metal
+  cd_key: MSV13CD01
+  volume_id: 21
+  id: 267
+  cd_letter: 
+  release_date: "2010-01-27"
+  description: 
+  new_release: f
+  cd_number: "1"
+  library_id: 1
+- cd_name: Rock/Metal Non Vocal
+  cd_key: MSV13CD02
+  volume_id: 21
+  id: 268
+  cd_letter: 
+  release_date: "2010-01-27"
+  description: 
+  new_release: f
+  cd_number: "2"
+  library_id: 1
+- cd_name: Alternative/Power Pop
+  cd_key: MSV13CD03
+  volume_id: 21
+  id: 269
+  cd_letter: 
+  release_date: "2010-01-27"
+  description: 
+  new_release: f
+  cd_number: "3"
+  library_id: 1
+- cd_name: Alternative/Power Pop Non Vocal
+  cd_key: MSV13CD04
+  volume_id: 21
+  id: 270
+  cd_letter: 
+  release_date: "2010-01-27"
+  description: 
+  new_release: f
+  cd_number: "4"
+  library_id: 1
+- cd_name: Glam Rock
+  cd_key: MSV13CD05
+  volume_id: 21
+  id: 271
+  cd_letter: 
+  release_date: "2010-01-27"
+  description: 
+  new_release: f
+  cd_number: "5"
+  library_id: 1
+- cd_name: Glam Rock Non Vocal
+  cd_key: MSV13CD06
+  volume_id: 21
+  id: 272
+  cd_letter: 
+  release_date: "2010-01-27"
+  description: 
+  new_release: f
+  cd_number: "6"
+  library_id: 1
+- cd_name: Singer-Songwriter
+  cd_key: MSV13CD07
+  volume_id: 21
+  id: 273
+  cd_letter: 
+  release_date: "2010-01-27"
+  description: 
+  new_release: f
+  cd_number: "7"
+  library_id: 1
+- cd_name: Singer-Songwriter Non Vocal
+  cd_key: MSV13CD08
+  volume_id: 21
+  id: 274
+  cd_letter: 
+  release_date: "2010-01-27"
+  description: 
+  new_release: f
+  cd_number: "8"
+  library_id: 1
+- cd_name: Soul
+  cd_key: MSV13CD09
+  volume_id: 21
+  id: 275
+  cd_letter: 
+  release_date: "2010-01-27"
+  description: 
+  new_release: f
+  cd_number: "9"
+  library_id: 1
+- cd_name: Soul Non Vocal
+  cd_key: MSV13CD10
+  volume_id: 21
+  id: 276
+  cd_letter: 
+  release_date: "2010-01-27"
+  description: 
+  new_release: f
+  cd_number: "10"
+  library_id: 1
+- cd_name: World Pop
+  cd_key: MSV13CD11
+  volume_id: 21
+  id: 277
+  cd_letter: 
+  release_date: "2010-01-27"
+  description: 
+  new_release: f
+  cd_number: "11"
+  library_id: 1
+- cd_name: World Pop Non Vocal
+  cd_key: MSV13CD12
+  volume_id: 21
+  id: 278
+  cd_letter: 
+  release_date: "2010-01-27"
+  description: 
+  new_release: f
+  cd_number: "12"
+  library_id: 1
+- cd_name: Dance
+  cd_key: MSV13CD13
+  volume_id: 21
+  id: 279
+  cd_letter: 
+  release_date: "2010-01-27"
+  description: 
+  new_release: f
+  cd_number: "13"
+  library_id: 1
+- cd_name: Dance Non Vocal
+  cd_key: MSV13CD14
+  volume_id: 21
+  id: 280
+  cd_letter: 
+  release_date: "2010-01-27"
+  description: 
+  new_release: f
+  cd_number: "14"
+  library_id: 1
+- cd_name: Rap
+  cd_key: MSV13CD15
+  volume_id: 21
+  id: 281
+  cd_letter: 
+  release_date: "2010-01-27"
+  description: 
+  new_release: f
+  cd_number: "15"
+  library_id: 1
+- cd_name: Rap Non Vocal
+  cd_key: MSV13CD16
+  volume_id: 21
+  id: 282
+  cd_letter: 
+  release_date: "2010-01-27"
+  description: 
+  new_release: f
+  cd_number: "16"
+  library_id: 1
+- cd_name: Old Time Jazz
+  cd_key: MSV13CD17
+  volume_id: 21
+  id: 283
+  cd_letter: 
+  release_date: "2010-01-27"
+  description: 
+  new_release: f
+  cd_number: "17"
+  library_id: 1
+- cd_name: Old Time Jazz Non Vocal
+  cd_key: MSV13CD18
+  volume_id: 21
+  id: 284
+  cd_letter: 
+  release_date: "2010-01-27"
+  description: 
+  new_release: f
+  cd_number: "18"
+  library_id: 1
+- cd_name: Sports Themes
+  cd_key: MSV13CD19
+  volume_id: 21
+  id: 285
+  cd_letter: 
+  release_date: "2010-01-27"
+  description: 
+  new_release: f
+  cd_number: "19"
+  library_id: 1
+- cd_name: Rocktronica
+  cd_key: MSV13CD20
+  volume_id: 21
+  id: 286
+  cd_letter: 
+  release_date: "2010-01-27"
+  description: 
+  new_release: f
+  cd_number: "20"
+  library_id: 1
+- cd_name: Reality Show
+  cd_key: MSV13CD21
+  volume_id: 21
+  id: 287
+  cd_letter: 
+  release_date: "2010-01-27"
+  description: 
+  new_release: f
+  cd_number: "21"
+  library_id: 1
+- cd_name: Cocktail Piano
+  cd_key: MSV13CD22
+  volume_id: 21
+  id: 288
+  cd_letter: 
+  release_date: "2010-01-27"
+  description: 
+  new_release: f
+  cd_number: "22"
+  library_id: 1
+- cd_name: Holiday Music
+  cd_key: MSHM_5A
+  volume_id: 20
+  id: 289
+  cd_letter: A
+  release_date: "2009-03-23"
+  description: ""
+  new_release: f
+  cd_number: "5"
+  library_id: 1
+- cd_name: Holiday Music
+  cd_key: MSHM_5B
+  volume_id: 20
+  id: 290
+  cd_letter: B
+  release_date: "2009-03-23"
+  description: ""
+  new_release: f
+  cd_number: "5"
+  library_id: 1
+- cd_name: "Rock/Metal "
+  cd_key: MSV14CD01
+  volume_id: 22
+  id: 291
+  cd_letter: 
+  release_date: "2010-02-26"
+  description: 
+  new_release: f
+  cd_number: "1"
+  library_id: 1
+- cd_name: Rock/Metal Non Vocal
+  cd_key: MSV14CD02
+  volume_id: 22
+  id: 292
+  cd_letter: 
+  release_date: "2010-02-26"
+  description: 
+  new_release: f
+  cd_number: "2"
+  library_id: 1
+- cd_name: "Alternative/Power Pop "
+  cd_key: MSV14CD03
+  volume_id: 22
+  id: 293
+  cd_letter: 
+  release_date: "2010-02-26"
+  description: 
+  new_release: f
+  cd_number: "3"
+  library_id: 1
+- cd_name: "Alternative/Power Pop Non Vocal "
+  cd_key: MSV14CD04
+  volume_id: 22
+  id: 294
+  cd_letter: 
+  release_date: "2010-02-26"
+  description: 
+  new_release: f
+  cd_number: "4"
+  library_id: 1
+- cd_name: "The 50's "
+  cd_key: MSV14CD05
+  volume_id: 22
+  id: 295
+  cd_letter: 
+  release_date: "2010-02-26"
+  description: 
+  new_release: f
+  cd_number: "5"
+  library_id: 1
+- cd_name: "The 50's Non Vocal "
+  cd_key: MSV14CD06
+  volume_id: 22
+  id: 296
+  cd_letter: 
+  release_date: "2010-02-26"
+  description: 
+  new_release: f
+  cd_number: "6"
+  library_id: 1
+- cd_name: "Euro Grooves "
+  cd_key: MSV14CD07
+  volume_id: 22
+  id: 297
+  cd_letter: 
+  release_date: "2010-02-26"
+  description: 
+  new_release: f
+  cd_number: "7"
+  library_id: 1
+- cd_name: Rocktronica
+  cd_key: MSV14CD08
+  volume_id: 22
+  id: 298
+  cd_letter: 
+  release_date: "2010-02-26"
+  description: 
+  new_release: f
+  cd_number: "8"
+  library_id: 1
+- cd_name: Gospel
+  cd_key: MSV14CD09
+  volume_id: 22
+  id: 299
+  cd_letter: 
+  release_date: "2010-02-26"
+  description: 
+  new_release: f
+  cd_number: "9"
+  library_id: 1
+- cd_name: Gospel Non Vocal
+  cd_key: MSV14CD10
+  volume_id: 22
+  id: 300
+  cd_letter: 
+  release_date: "2010-02-26"
+  description: 
+  new_release: f
+  cd_number: "10"
+  library_id: 1
+- cd_name: Hawaiian
+  cd_key: MSV14CD11
+  volume_id: 22
+  id: 301
+  cd_letter: 
+  release_date: "2010-02-26"
+  description: 
+  new_release: f
+  cd_number: "11"
+  library_id: 1
+- cd_name: Teen Pop
+  cd_key: MSV14CD13
+  volume_id: 22
+  id: 302
+  cd_letter: 
+  release_date: "2010-02-26"
+  description: 
+  new_release: f
+  cd_number: "13"
+  library_id: 1
+- cd_name: Teen Pop Non Vocal
+  cd_key: MSV14CD14
+  volume_id: 22
+  id: 303
+  cd_letter: 
+  release_date: "2010-02-26"
+  description: 
+  new_release: f
+  cd_number: "14"
+  library_id: 1
+- cd_name: Rap
+  cd_key: MSV14CD15
+  volume_id: 22
+  id: 304
+  cd_letter: 
+  release_date: "2010-02-26"
+  description: 
+  new_release: f
+  cd_number: "15"
+  library_id: 1
+- cd_name: Rap Non Vocal
+  cd_key: MSV14CD16
+  volume_id: 22
+  id: 305
+  cd_letter: 
+  release_date: "2010-02-26"
+  description: 
+  new_release: f
+  cd_number: "16"
+  library_id: 1
+- cd_name: Exotic Lands
+  cd_key: MSV14CD17
+  volume_id: 22
+  id: 306
+  cd_letter: 
+  release_date: "2010-02-26"
+  description: 
+  new_release: f
+  cd_number: "17"
+  library_id: 1
+- cd_name: Exotic Lands Non Vocal
+  cd_key: MSV14CD18
+  volume_id: 22
+  id: 307
+  cd_letter: 
+  release_date: "2010-02-26"
+  description: 
+  new_release: f
+  cd_number: "18"
+  library_id: 1
+- cd_name: Relaxation / Spa
+  cd_key: MSV14CD19
+  volume_id: 22
+  id: 308
+  cd_letter: 
+  release_date: "2010-02-26"
+  description: 
+  new_release: f
+  cd_number: "19"
+  library_id: 1
+- cd_name: Acoustica
+  cd_key: MSV14CD20
+  volume_id: 22
+  id: 309
+  cd_letter: 
+  release_date: "2010-02-26"
+  description: 
+  new_release: f
+  cd_number: "20"
+  library_id: 1
+- 
+- cd_name: Reality Show
+  cd_key: MSV14CD21
+  volume_id: 22
+  id: 311
+  cd_letter: 
+  release_date: "2010-02-26"
+  description: 
+  new_release: f
+  cd_number: "21"
+  library_id: 1
+- cd_name: Cocktail Piano
+  cd_key: MSV14CD22
+  volume_id: 22
+  id: 312
+  cd_letter: 
+  release_date: "2010-02-26"
+  description: 
+  new_release: f
+  cd_number: "22"
+  library_id: 1
+- 
+- cd_name: Hawaiian Non Vocal
+  cd_key: MSV14CD12
+  volume_id: 22
+  id: 314
+  cd_letter: 
+  release_date: "2010-02-26"
+  description: 
+  new_release: f
+  cd_number: "12"
+  library_id: 1
+- cd_name: "Twisted Beats Volume 2 "
+  cd_key: TSV2_CD02
+  volume_id: 14
+  id: 315
+  cd_letter: 
+  release_date: "2010-01-17"
+  description: 
+  new_release: f
+  cd_number: "2"
+  library_id: 1
+- cd_name: "Trailer & Promotional "
+  cd_key: MSTPM_4
+  volume_id: 19
+  id: 316
+  cd_letter: 
+  release_date: "2009-03-23"
+  description: 
+  new_release: f
+  cd_number: "4"
+  library_id: 1
+- cd_name: "Rock/Metal "
+  cd_key: MSV15CD01
+  volume_id: 23
+  id: 317
+  cd_letter: 
+  release_date: "2010-03-28"
+  description: 
+  new_release: f
+  cd_number: "1"
+  library_id: 1
+- 
+- 
+- cd_name: "Alternative/Power Pop "
+  cd_key: MSV15CD02
+  volume_id: 23
+  id: 320
+  cd_letter: 
+  release_date: "2010-03-28"
+  description: 
+  new_release: f
+  cd_number: "2"
+  library_id: 1
+- cd_name: "The 60's "
+  cd_key: MSV15CD03
+  volume_id: 23
+  id: 321
+  cd_letter: 
+  release_date: "2010-03-28"
+  description: 
+  new_release: f
+  cd_number: "3"
+  library_id: 1
+- cd_name: Electro Pop
+  cd_key: MSV15CD04
+  volume_id: 23
+  id: 322
+  cd_letter: 
+  release_date: "2010-03-28"
+  description: 
+  new_release: f
+  cd_number: "4"
+  library_id: 1
+- cd_name: Rocktronica
+  cd_key: MSV15CD05
+  volume_id: 23
+  id: 323
+  cd_letter: 
+  release_date: "2010-03-28"
+  description: 
+  new_release: f
+  cd_number: "5"
+  library_id: 1
+- cd_name: Dance Club
+  cd_key: MSV15CD06
+  volume_id: 23
+  id: 324
+  cd_letter: 
+  release_date: "2010-03-28"
+  description: 
+  new_release: t
+  cd_number: "6"
+  library_id: 1
+- cd_name: Tejano
+  cd_key: MSV15CD07
+  volume_id: 23
+  id: 325
+  cd_letter: 
+  release_date: "2010-03-28"
+  description: 
+  new_release: f
+  cd_number: "7"
+  library_id: 1
+- 
+- cd_name: Rap/Hip-Hop
+  cd_key: MSV15CD09
+  volume_id: 23
+  id: 327
+  cd_letter: 
+  release_date: "2010-03-28"
+  description: ""
+  new_release: t
+  cd_number: "9"
+  library_id: 1
+- cd_name: Show Tunes
+  cd_key: MSV15CD10
+  volume_id: 23
+  id: 328
+  cd_letter: 
+  release_date: "2010-03-28"
+  description: 
+  new_release: f
+  cd_number: "10"
+  library_id: 1
+- cd_name: TV Themes
+  cd_key: MSV15CD11
+  volume_id: 23
+  id: 329
+  cd_letter: 
+  release_date: "2010-03-28"
+  description: 
+  new_release: f
+  cd_number: "11"
+  library_id: 1
+- cd_name: Children's Music
+  cd_key: MSV15CD12
+  volume_id: 23
+  id: 330
+  cd_letter: 
+  release_date: "2010-03-28"
+  description: 
+  new_release: f
+  cd_number: "12"
+  library_id: 1
+- cd_name: Reality Show
+  cd_key: MSV15CD13
+  volume_id: 23
+  id: 331
+  cd_letter: 
+  release_date: "2010-03-28"
+  description: 
+  new_release: f
+  cd_number: "13"
+  library_id: 1
+- cd_name: Cocktail Piano
+  cd_key: MSV15CD14
+  volume_id: 23
+  id: 332
+  cd_letter: 
+  release_date: "2010-03-28"
+  description: 
+  new_release: f
+  cd_number: "14"
+  library_id: 1
+- cd_name: Jazz Combo
+  cd_key: MSV15CD15
+  volume_id: 23
+  id: 333
+  cd_letter: 
+  release_date: "2010-03-28"
+  description: 
+  new_release: f
+  cd_number: "15"
+  library_id: 1
+- 
+- cd_name: Bangin' Beats Volume 3
+  cd_key: TSV1_CD03
+  volume_id: 13
+  id: 335
+  cd_letter: 
+  release_date: "2010-01-17"
+  description: ""
+  new_release: f
+  cd_number: "3"
+  library_id: 1
+- cd_name: 80's New Wave
+  cd_key: MSV15CD08
+  volume_id: 23
+  id: 336
+  cd_letter: 
+  release_date: "2010-03-28"
+  description: 
+  new_release: f
+  cd_number: "8"
+  library_id: 1
+- cd_name: V Series 1
+  cd_key: VSV1CD01
+  volume_id: 25
+  id: 337
+  cd_letter: 
+  release_date: "2010-05-27"
+  description: "Authentic Hip Hop, R&B and club beats. "
+  new_release: f
+  cd_number: "1"
+  library_id: 1
+- cd_name: V Series 2
+  cd_key: VSV1CD02
+  volume_id: 25
+  id: 338
+  cd_letter: 
+  release_date: "2010-05-27"
+  description: "Authentic Hip Hop, R&B and club beats. "
+  new_release: f
+  cd_number: "2"
+  library_id: 1
+- cd_name: V Series 3
+  cd_key: VSV1CD03
+  volume_id: 25
+  id: 339
+  cd_letter: 
+  release_date: "2010-05-27"
+  description: "Authentic Hip Hop, R&B and club beats. "
+  new_release: f
+  cd_number: "3"
+  library_id: 1
+- 
+- 
+- 
+- 
+- 
+- cd_name: V Series 4
+  cd_key: VSV1CD04
+  volume_id: 25
+  id: 345
+  cd_letter: 
+  release_date: "2010-05-27"
+  description: Hard Hitting Hip-Hop, R&B, and Club beats
+  new_release: t
+  cd_number: "4"
+  library_id: 1
+- cd_name: V Series 5
+  cd_key: VSV1CD05
+  volume_id: 25
+  id: 346
+  cd_letter: 
+  release_date: "2010-05-27"
+  description: Hard Hitting Hip-Hop, R&B and Club beats
+  new_release: t
+  cd_number: "5"
+  library_id: 1
+- cd_name: V Series 6
+  cd_key: VSV1CD06
+  volume_id: 25
+  id: 347
+  cd_letter: 
+  release_date: "2010-05-27"
+  description: Description
+  new_release: f
+  cd_number: "6"
+  library_id: 1
+- cd_name: Reality Show
+  cd_key: MSV16CD13
+  volume_id: 26
+  id: 348
+  cd_letter: 
+  release_date: "2010-04-27"
+  description: Description
+  new_release: f
+  cd_number: "13"
+  library_id: 1
+- cd_name: Rocktronica
+  cd_key: MSV16CD06
+  volume_id: 26
+  id: 349
+  cd_letter: 
+  release_date: "2010-04-27"
+  description: Description
+  new_release: f
+  cd_number: "6"
+  library_id: 1
+- cd_name: Rock / Metal
+  cd_key: MSV16CD01
+  volume_id: 26
+  id: 350
+  cd_letter: 
+  release_date: "2010-04-27"
+  description: Description
+  new_release: f
+  cd_number: "1"
+  library_id: 1
+- cd_name: "Alternative / Power Pop "
+  cd_key: MSV16CD02
+  volume_id: 26
+  id: 351
+  cd_letter: 
+  release_date: "2010-04-27"
+  description: Description
+  new_release: f
+  cd_number: "2"
+  library_id: 1
+- cd_name: Singer-Songwriter
+  cd_key: MSV16CD03
+  volume_id: 26
+  id: 352
+  cd_letter: 
+  release_date: "2010-04-27"
+  description: Description
+  new_release: f
+  cd_number: "3"
+  library_id: 1
+- cd_name: Pop Rock
+  cd_key: MSV16CD04
+  volume_id: 26
+  id: 353
+  cd_letter: 
+  release_date: "2010-04-27"
+  description: Description
+  new_release: f
+  cd_number: "4"
+  library_id: 1
+- cd_name: Pop Dance
+  cd_key: MSV16CD05
+  volume_id: 26
+  id: 354
+  cd_letter: 
+  release_date: "2010-04-27"
+  description: Description
+  new_release: f
+  cd_number: "5"
+  library_id: 1
+- cd_name: Dance Club
+  cd_key: MSV16CD07
+  volume_id: 26
+  id: 355
+  cd_letter: 
+  release_date: "2010-04-27"
+  description: Description
+  new_release: f
+  cd_number: "7"
+  library_id: 1
+- cd_name: Country
+  cd_key: MSV16CD08
+  volume_id: 26
+  id: 356
+  cd_letter: 
+  release_date: "2010-04-27"
+  description: Description
+  new_release: f
+  cd_number: "8"
+  library_id: 1
+- cd_name: Latin
+  cd_key: MSV16CD09
+  volume_id: 26
+  id: 357
+  cd_letter: 
+  release_date: "2010-04-27"
+  description: Description
+  new_release: f
+  cd_number: "9"
+  library_id: 1
+- cd_name: Reggae
+  cd_key: MSV16CD10
+  volume_id: 26
+  id: 358
+  cd_letter: 
+  release_date: "2010-04-27"
+  description: Description
+  new_release: f
+  cd_number: "10"
+  library_id: 1
+- cd_name: Exotic Lands
+  cd_key: MSV16CD11
+  volume_id: 26
+  id: 359
+  cd_letter: 
+  release_date: "2010-04-27"
+  description: Description
+  new_release: f
+  cd_number: "11"
+  library_id: 1
+- cd_name: Sports Themes
+  cd_key: MSV16CD12
+  volume_id: 26
+  id: 360
+  cd_letter: 
+  release_date: "2010-04-27"
+  description: Description
+  new_release: f
+  cd_number: "12"
+  library_id: 1
+- cd_name: Cocktail Piano
+  cd_key: MSV16CD14
+  volume_id: 26
+  id: 361
+  cd_letter: 
+  release_date: "2010-04-27"
+  description: Description
+  new_release: f
+  cd_number: "14"
+  library_id: 1
+- cd_name: Saloon Piano
+  cd_key: MSV16CD15
+  volume_id: 26
+  id: 362
+  cd_letter: 
+  release_date: "2010-04-27"
+  description: Description
+  new_release: f
+  cd_number: "15"
+  library_id: 1
+- 
+- 
+- 
+- cd_name: V-Series 7
+  cd_key: VSV1CD07
+  volume_id: 25
+  id: 366
+  cd_letter: 
+  release_date: 
+  description: 
+  new_release: f
+  cd_number: "7"
+  library_id: 1
+- 
+- cd_name: Bangin' Beats Volume 10
+  cd_key: TSV1_CD10
+  volume_id: 13
+  id: 368
+  cd_letter: 
+  release_date: 
+  description: Description
+  new_release: f
+  cd_number: "10"
+  library_id: 1
+- cd_name: Bangin' Beats Volume 11
+  cd_key: TSV1_CD11
+  volume_id: 13
+  id: 369
+  cd_letter: 
+  release_date: 
+  description: Description
+  new_release: f
+  cd_number: "11"
+  library_id: 1
+- cd_name: Bangin' Beats Volume 12
+  cd_key: TSV1_CD12
+  volume_id: 13
+  id: 370
+  cd_letter: 
+  release_date: 
+  description: Description
+  new_release: f
+  cd_number: "12"
+  library_id: 1
+- cd_name: Bangin' Beats Volume 4
+  cd_key: TSV1_CD04
+  volume_id: 13
+  id: 371
+  cd_letter: 
+  release_date: 
+  description: ""
+  new_release: f
+  cd_number: "4"
+  library_id: 1
+- cd_name: Bangin' Beats Volume 5
+  cd_key: TSV1_CD05
+  volume_id: 13
+  id: 372
+  cd_letter: 
+  release_date: 
+  description: ""
+  new_release: f
+  cd_number: "5"
+  library_id: 1
+- cd_name: Bangin' Beats Volume 6
+  cd_key: TSV1_CD06
+  volume_id: 13
+  id: 373
+  cd_letter: 
+  release_date: 
+  description: ""
+  new_release: f
+  cd_number: "6"
+  library_id: 1
+- cd_name: Bangin' Beats Volume 7
+  cd_key: TSV1_CD07
+  volume_id: 13
+  id: 374
+  cd_letter: 
+  release_date: 
+  description: ""
+  new_release: f
+  cd_number: "7"
+  library_id: 1
+- cd_name: Bangin' Beats Volume 8
+  cd_key: TSV1_CD08
+  volume_id: 13
+  id: 375
+  cd_letter: 
+  release_date: 
+  description: ""
+  new_release: f
+  cd_number: "8"
+  library_id: 1
+- cd_name: Bangin' Beats Volume 9
+  cd_key: TSV1_CD09
+  volume_id: 13
+  id: 376
+  cd_letter: 
+  release_date: 
+  description: ""
+  new_release: f
+  cd_number: "9"
+  library_id: 1

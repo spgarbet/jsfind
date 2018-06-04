@@ -1,0 +1,45 @@
+--- 
+- 
+- cd_key_regexp: MSV(?:OL)?(\d+)CD(\d+)()
+  cd_key_format: MSV%1$02dCD%2$02d
+  collection_name: MasterSource
+  cd_name_format: Volume %1$2d CD %2$2d
+  collection_code: MS
+  sort_order: "1"
+  id: 1
+- cd_key_regexp: TSV(\d+)_CD(\d+)()
+  cd_key_format: TSV%1$d_CD%2$02d
+  collection_name: Top Shelf Beats
+  cd_name_format: Top Shelf Beats Volume %1$d CD%2$d
+  collection_code: TS
+  sort_order: "2"
+  id: 2
+- cd_key_regexp: CELEBTHEME([a-z]+)(\d+)()
+  cd_key_format: CELEBTHEME%1$s%2$d
+  collection_name: Celebri-Themes
+  cd_name_format: Celebri-Themes %1$s %2$d
+  collection_code: CELEBTHEME
+  sort_order: "5"
+  id: 3
+- cd_key_regexp: MSTPM_()(\d+)()
+  cd_key_format: MSTPM_%2$d
+  collection_name: Trailer & Promo Music
+  cd_name_format: Trailer & Promo Music %2$d
+  collection_code: TPM
+  sort_order: "4"
+  id: 4
+- cd_key_regexp: MSHM_()(\d+)([a-z]?)
+  cd_key_format: MSHM_%2$d%3$s
+  collection_name: Holiday Music
+  cd_name_format: Holiday Music %2$d%3$s
+  collection_code: HM
+  sort_order: "3"
+  id: 5
+- 
+- cd_key_regexp: VSV(\d+)CD(\d+)()
+  cd_key_format: VSV%1$dCD%2$02d
+  collection_name: V-Series
+  cd_name_format: V-Series Volume  %1$d CD%2$d
+  collection_code: VS
+  sort_order: "6"
+  id: 7

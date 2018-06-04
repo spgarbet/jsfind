@@ -1,0 +1,830 @@
+--- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- name: Acoustic
+  id: 18
+- name: Action
+  id: 19
+- 
+- 
+- name: Affectionate
+  id: 22
+- 
+- name: Aggressive
+  id: 24
+- 
+- name: Airy
+  id: 26
+- 
+- 
+- 
+- name: Ambient
+  id: 30
+- 
+- 
+- 
+- name: Angry
+  id: 34
+- 
+- name: Anguish
+  id: 36
+- name: Anthem
+  id: 37
+- name: Anticipation
+  id: 38
+- name: Anxious
+  id: 39
+- name: Apprehensive
+  id: 40
+- 
+- 
+- 
+- name: Assertive
+  id: 44
+- 
+- name: Atmospheric
+  id: 46
+- name: Attitude
+  id: 47
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- name: Bittersweet
+  id: 63
+- 
+- 
+- name: Blissful
+  id: 66
+- 
+- 
+- name: Bluesy
+  id: 69
+- 
+- 
+- name: Bold
+  id: 72
+- 
+- 
+- name: Bouncy
+  id: 75
+- 
+- 
+- name: Brash
+  id: 78
+- 
+- 
+- 
+- 
+- name: Breezy
+  id: 83
+- name: Bright
+  id: 84
+- 
+- 
+- name: Brooding
+  id: 87
+- 
+- name: Bubblegum
+  id: 89
+- 
+- 
+- 
+- 
+- name: California
+  id: 94
+- 
+- name: Calm
+  id: 96
+- 
+- 
+- name: Carefree
+  id: 99
+- name: Caring
+  id: 100
+- name: Carnival
+  id: 101
+- 
+- 
+- 
+- 
+- 
+- name: Chase Scene
+  id: 107
+- name: Cheerful
+  id: 108
+- name: Cheesy
+  id: 109
+- 
+- name: Child-Like
+  id: 111
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- name: Climactic
+  id: 123
+- 
+- 
+- name: Cocky
+  id: 126
+- 
+- 
+- 
+- 
+- name: Comforting
+  id: 131
+- name: Comical
+  id: 132
+- 
+- 
+- 
+- 
+- name: Confident
+  id: 137
+- name: Confused
+  id: 138
+- name: Contemplative
+  id: 139
+- 
+- 
+- name: Cool
+  id: 142
+- name: Corny
+  id: 143
+- name: Cosmic
+  id: 144
+- name: Cosmopolitan
+  id: 145
+- 
+- 
+- 
+- 
+- name: Crazy
+  id: 150
+- 
+- 
+- 
+- 
+- 
+- name: Curious
+  id: 156
+- name: Cute
+  id: 157
+- 
+- name: Danger
+  id: 159
+- name: Dark
+  id: 160
+- name: Defiant
+  id: 161
+- 
+- 
+- 
+- name: Determined
+  id: 165
+- 
+- 
+- 
+- 
+- 
+- 
+- name: Down-Home
+  id: 172
+- 
+- 
+- 
+- name: Dramatic
+  id: 176
+- name: Dreamy
+  id: 177
+- 
+- name: Driving
+  id: 179
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- name: Easy-Listening
+  id: 189
+- 
+- name: Eclectic
+  id: 191
+- 
+- 
+- 
+- name: Edgy
+  id: 195
+- 
+- 
+- name: Elegant
+  id: 198
+- 
+- 
+- 
+- name: Energetic
+  id: 202
+- name: Epic
+  id: 203
+- 
+- 
+- name: Ethereal
+  id: 206
+- name: European
+  id: 207
+- 
+- name: Exciting
+  id: 209
+- name: Exotic
+  id: 210
+- 
+- 
+- 
+- 
+- name: Fantasy
+  id: 215
+- 
+- 
+- 
+- name: Fear
+  id: 219
+- 
+- name: Feel-Good
+  id: 221
+- name: Festive
+  id: 222
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- name: Frenetic
+  id: 234
+- name: Friendly
+  id: 235
+- 
+- 
+- 
+- name: Fun
+  id: 239
+- 
+- 
+- name: Funky
+  id: 242
+- name: Funny
+  id: 243
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- name: Grand
+  id: 256
+- 
+- 
+- name: Gritty
+  id: 259
+- 
+- 
+- 
+- 
+- name: Happy
+  id: 264
+- 
+- 
+- 
+- 
+- 
+- 
+- name: Hardcore
+  id: 271
+- name: Hardship
+  id: 272
+- 
+- name: Haunting
+  id: 274
+- 
+- name: Heartfelt
+  id: 276
+- 
+- 
+- name: Hectic
+  id: 279
+- 
+- 
+- name: High-Energy
+  id: 282
+- 
+- name: Hip
+  id: 284
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- name: Hypnotic
+  id: 298
+- 
+- 
+- 
+- 
+- 
+- 
+- name: Intense
+  id: 305
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- name: Jazzy
+  id: 315
+- 
+- 
+- 
+- 
+- 
+- 
+- name: Laid-Back
+  id: 322
+- 
+- 
+- name: Light
+  id: 325
+- 
+- 
+- name: Lonely
+  id: 328
+- 
+- 
+- 
+- 
+- 
+- 
+- name: Lullaby
+  id: 335
+- 
+- name: Lush
+  id: 337
+- 
+- name: Majestic
+  id: 339
+- 
+- 
+- 
+- 
+- 
+- 
+- name: Melancholy
+  id: 346
+- 
+- name: Melodic
+  id: 348
+- name: Menacing
+  id: 349
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- name: Moody
+  id: 359
+- 
+- 
+- 
+- 
+- name: Mysterious
+  id: 364
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- name: Nightclub
+  id: 376
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- name: Olympic
+  id: 385
+- name: Ominous
+  id: 386
+- 
+- name: Optimistic
+  id: 388
+- 
+- 
+- 
+- 
+- 
+- name: Passionate
+  id: 394
+- name: Patriotic
+  id: 395
+- name: Peaceful
+  id: 396
+- name: Pensive
+  id: 397
+- name: Percussive
+  id: 398
+- 
+- name: Playful
+  id: 400
+- 
+- 
+- 
+- 
+- name: Positive
+  id: 405
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- name: Pulsing
+  id: 416
+- 
+- 
+- name: Quirky
+  id: 419
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- name: Religious
+  id: 435
+- 
+- 
+- name: Restless
+  id: 438
+- name: Retro
+  id: 439
+- 
+- 
+- 
+- 
+- 
+- 
+- name: Romantic
+  id: 446
+- 
+- name: Rowdy
+  id: 448
+- 
+- name: Sad
+  id: 450
+- 
+- 
+- name: Sassy
+  id: 453
+- 
+- name: Scary
+  id: 455
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- name: Sensitive
+  id: 463
+- 
+- name: Sentimental
+  id: 465
+- 
+- 
+- 
+- name: Sexy
+  id: 469
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- name: Sinister
+  id: 477
+- 
+- name: Slapstick
+  id: 479
+- 
+- 
+- 
+- name: Smoky
+  id: 483
+- name: Smooth
+  id: 484
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- name: Soulful
+  id: 494
+- 
+- 
+- 
+- 
+- name: Sparse
+  id: 499
+- name: Spirited
+  id: 500
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- name: Strip Club
+  id: 510
+- 
+- 
+- 
+- name: Suave
+  id: 514
+- 
+- 
+- 
+- 
+- name: Sunny
+  id: 519
+- 
+- name: Suspense
+  id: 521
+- 
+- 
+- 
+- 
+- name: Swinging
+  id: 526
+- 
+- 
+- 
+- 
+- 
+- name: Tender
+  id: 532
+- 
+- 
+- 
+- 
+- 
+- name: Theatrical
+  id: 538
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- name: Tribal
+  id: 551
+- 
+- 
+- name: Triumphant
+  id: 554
+- name: Tropical
+  id: 555
+- 
+- 
+- 
+- name: Upbeat
+  id: 559
+- name: Uplifting
+  id: 560
+- 
+- 
+- 
+- name: Urgent
+  id: 564
+- 
+- name: Vibrant
+  id: 566
+- 
+- 
+- 
+- 
+- 
+- 
+- name: Western
+  id: 573
+- 
+- 
+- 
+- 
+- 
+- name: Yearning
+  id: 579
+- 
+- name: Youthful
+  id: 581
+- 
+- 
+- name: Sexual
+  id: 584
+- name: Spiritual
+  id: 585
+- 
+- 
+- name: Party
+  id: 588
+- name: Campy
+  id: 589
+- name: Heroic
+  id: 590
+- 
+- name: Sneaky
+  id: 592
+- 
+- name: Zany
+  id: 594
+- 
+- 
+- 
+- name: Psychedelic
+  id: 598
+- 
+- name: Erotic
+  id: 600
+- name: Sensual
+  id: 601
+- name: Meditative
+  id: 602
+- name: Entrancing
+  id: 603
+- name: Hopeful
+  id: 604
+- name: Joyous
+  id: 605
+- name: Nomadic
+  id: 606
+- name: Rhythmic
+  id: 607
+- name: Tranquil
+  id: 608
+- name: Serene
+  id: 609
+- name: Celebration
+  id: 610
+- name: Relaxing
+  id: 611
+- name: Proud
+  id: 612
+- name: Inspirational
+  id: 613
+- name: Building
+  id: 614
+- name: Sweet
+  id: 615
+- name: Naughty
+  id: 616
+- name: Seductive
+  id: 617
+- name: Robotic
+  id: 618
+- name: Mechanical
+  id: 619
+- name: Emotional
+  id: 620
+- name: Hard-Hitting
+  id: 621
+- name: Minimal
+  id: 622
+- name: Futuristic
+  id: 623
+- name: Sophisticated
+  id: 624
+- name: Heavy
+  id: 625
+- name: Serious
+  id: 626
+- name: Creepy
+  id: 627
+- name: Pounding
+  id: 628
+- name: Raucous
+  id: 629
+- name: Boisterous
+  id: 630
+- name: Rousing
+  id: 631
+- name: Militaristic
+  id: 632
+- name: Stirring
+  id: 633
+- name: Dynamic
+  id: 634
+- name: Powerful
+  id: 635
+- name: Forceful
+  id: 636

@@ -1,0 +1,103 @@
+--- 
+- 
+- volume_name: Volume 1
+  volume_number: "01"
+  id: 1
+  collection_id: 1
+- volume_name: Volume 2
+  volume_number: "02"
+  id: 2
+  collection_id: 1
+- volume_name: Volume 3
+  volume_number: "03"
+  id: 3
+  collection_id: 1
+- volume_name: Volume 4
+  volume_number: "04"
+  id: 4
+  collection_id: 1
+- volume_name: Volume 5
+  volume_number: "05"
+  id: 5
+  collection_id: 1
+- volume_name: Volume 6
+  volume_number: "06"
+  id: 6
+  collection_id: 1
+- volume_name: Volume 7
+  volume_number: "07"
+  id: 7
+  collection_id: 1
+- volume_name: Volume 8
+  volume_number: 08
+  id: 8
+  collection_id: 1
+- volume_name: Volume 9
+  volume_number: 09
+  id: 9
+  collection_id: 1
+- volume_name: Volume 10
+  volume_number: "10"
+  id: 10
+  collection_id: 1
+- volume_name: Volume 11
+  volume_number: "11"
+  id: 11
+  collection_id: 1
+- volume_name: Volume 12
+  volume_number: "12"
+  id: 12
+  collection_id: 1
+- volume_name: Bangin' Beats
+  volume_number: "1"
+  id: 13
+  collection_id: 2
+- volume_name: Twisted Beats
+  volume_number: "2"
+  id: 14
+  collection_id: 2
+- volume_name: Bling Things
+  volume_number: BT
+  id: 15
+  collection_id: 3
+- volume_name: Events
+  volume_number: EV
+  id: 16
+  collection_id: 3
+- volume_name: Fashion
+  volume_number: F
+  id: 17
+  collection_id: 3
+- volume_name: Relationships
+  volume_number: R
+  id: 18
+  collection_id: 3
+- volume_name: TPM
+  volume_number: ""
+  id: 19
+  collection_id: 4
+- volume_name: HM
+  volume_number: ""
+  id: 20
+  collection_id: 5
+- volume_name: Volume 13
+  volume_number: "13"
+  id: 21
+  collection_id: 1
+- volume_name: Volume 14
+  volume_number: "14"
+  id: 22
+  collection_id: 1
+- volume_name: Volume 15
+  volume_number: "15"
+  id: 23
+  collection_id: 1
+- 
+- volume_name: Volume 1
+  volume_number: "1"
+  id: 25
+  collection_id: 7
+- volume_name: Volume 16
+  volume_number: "16"
+  id: 26
+  collection_id: 1

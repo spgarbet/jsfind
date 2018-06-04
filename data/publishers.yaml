@@ -1,0 +1,450 @@
+--- 
+- 
+- address: ""
+  federal_tax_number: 
+  name: American Shamrock
+  created_at: 2007-11-22 01:17:55.70396
+  contact_name: ""
+  country: ""
+  updated_at: 
+  created_by_id: 1
+  lock_version: "0"
+  pro_id: 1
+  id: 1
+  phone: ""
+  cae_ipi_number: 
+  contact_email: ""
+- address: ""
+  federal_tax_number: 
+  name: Angeles Crest Music
+  created_at: 2007-11-22 01:17:55.70396
+  contact_name: ""
+  country: ""
+  updated_at: 
+  created_by_id: 1
+  lock_version: "0"
+  pro_id: 3
+  id: 2
+  phone: ""
+  cae_ipi_number: 
+  contact_email: ""
+- address: ""
+  federal_tax_number: 
+  name: BOP 35
+  created_at: 2007-11-22 01:17:55.70396
+  contact_name: ""
+  country: ""
+  updated_at: 
+  created_by_id: 1
+  lock_version: "0"
+  pro_id: 2
+  id: 3
+  phone: ""
+  cae_ipi_number: 
+  contact_email: ""
+- address: ""
+  federal_tax_number: 
+  name: Big Groovy Music
+  created_at: 2007-11-22 01:17:55.70396
+  contact_name: ""
+  country: ""
+  updated_at: 
+  created_by_id: 1
+  lock_version: "0"
+  pro_id: 2
+  id: 4
+  phone: ""
+  cae_ipi_number: 
+  contact_email: ""
+- address: ""
+  federal_tax_number: 
+  name: Bisongs
+  created_at: 2007-11-22 01:17:55.70396
+  contact_name: ""
+  country: ""
+  updated_at: 
+  created_by_id: 1
+  lock_version: "0"
+  pro_id: 1
+  id: 5
+  phone: ""
+  cae_ipi_number: 
+  contact_email: ""
+- address: ""
+  federal_tax_number: 
+  name: Blaisch Music Publishing
+  created_at: 2007-11-22 01:17:55.70396
+  contact_name: ""
+  country: ""
+  updated_at: 
+  created_by_id: 1
+  lock_version: "0"
+  pro_id: 2
+  id: 6
+  phone: ""
+  cae_ipi_number: 
+  contact_email: ""
+- address: ""
+  federal_tax_number: 
+  name: Blue Cat Tales Music
+  created_at: 2007-11-22 01:17:55.70396
+  contact_name: ""
+  country: ""
+  updated_at: 
+  created_by_id: 1
+  lock_version: "0"
+  pro_id: 1
+  id: 7
+  phone: ""
+  cae_ipi_number: 
+  contact_email: ""
+- address: ""
+  federal_tax_number: 
+  name: Brunello Music
+  created_at: 2007-11-22 01:17:55.70396
+  contact_name: ""
+  country: ""
+  updated_at: 
+  created_by_id: 1
+  lock_version: "0"
+  pro_id: 1
+  id: 8
+  phone: ""
+  cae_ipi_number: 
+  contact_email: ""
+- address: ""
+  federal_tax_number: 
+  name: Celebrithemes
+  created_at: 2007-11-22 01:17:55.70396
+  contact_name: ""
+  country: ""
+  updated_at: 
+  created_by_id: 1
+  lock_version: "0"
+  pro_id: 1
+  id: 9
+  phone: ""
+  cae_ipi_number: 
+  contact_email: ""
+- address: ""
+  federal_tax_number: 
+  name: Cherokee Trail / Sacred Pipe
+  created_at: 2007-11-22 01:17:55.70396
+  contact_name: ""
+  country: ""
+  updated_at: 
+  created_by_id: 1
+  lock_version: "0"
+  pro_id: 1
+  id: 10
+  phone: ""
+  cae_ipi_number: 
+  contact_email: ""
+- address: ""
+  federal_tax_number: 
+  name: Crushed Petals Music
+  created_at: 2007-11-22 01:17:55.70396
+  contact_name: ""
+  country: ""
+  updated_at: 
+  created_by_id: 1
+  lock_version: "0"
+  pro_id: 1
+  id: 11
+  phone: ""
+  cae_ipi_number: 
+  contact_email: ""
+- address: ""
+  federal_tax_number: 
+  name: Curucu Music
+  created_at: 2007-11-22 01:17:55.70396
+  contact_name: ""
+  country: ""
+  updated_at: 
+  created_by_id: 1
+  lock_version: "0"
+  pro_id: 2
+  id: 12
+  phone: ""
+  cae_ipi_number: 
+  contact_email: ""
+- address: ""
+  federal_tax_number: 
+  name: Dave Crimmen All Music
+  created_at: 2007-11-22 01:17:55.70396
+  contact_name: ""
+  country: ""
+  updated_at: 
+  created_by_id: 1
+  lock_version: "0"
+  pro_id: 2
+  id: 13
+  phone: ""
+  cae_ipi_number: 
+  contact_email: ""
+- address: ""
+  federal_tax_number: 
+  name: Gill Tunes
+  created_at: 2007-11-22 01:17:55.70396
+  contact_name: ""
+  country: ""
+  updated_at: 
+  created_by_id: 1
+  lock_version: "0"
+  pro_id: 1
+  id: 14
+  phone: ""
+  cae_ipi_number: 
+  contact_email: ""
+- address: ""
+  federal_tax_number: 
+  name: JD Soul Music
+  created_at: 2007-11-22 01:17:55.70396
+  contact_name: ""
+  country: ""
+  updated_at: 
+  created_by_id: 1
+  lock_version: "0"
+  pro_id: 2
+  id: 15
+  phone: ""
+  cae_ipi_number: 
+  contact_email: ""
+- address: ""
+  federal_tax_number: 
+  name: King Kino Music
+  created_at: 2007-11-22 01:17:55.70396
+  contact_name: ""
+  country: ""
+  updated_at: 
+  created_by_id: 1
+  lock_version: "0"
+  pro_id: 1
+  id: 16
+  phone: ""
+  cae_ipi_number: 
+  contact_email: ""
+- address: ""
+  federal_tax_number: 
+  name: Koolicks Music
+  created_at: 2007-11-22 01:17:55.70396
+  contact_name: ""
+  country: ""
+  updated_at: 
+  created_by_id: 1
+  lock_version: "0"
+  pro_id: 2
+  id: 17
+  phone: ""
+  cae_ipi_number: 
+  contact_email: ""
+- address: ""
+  federal_tax_number: 
+  name: MCA Music Inc.
+  created_at: 2007-11-22 01:17:55.70396
+  contact_name: ""
+  country: ""
+  updated_at: 
+  created_by_id: 1
+  lock_version: "0"
+  pro_id: 2
+  id: 18
+  phone: ""
+  cae_ipi_number: 
+  contact_email: ""
+- address: ""
+  federal_tax_number: 
+  name: Nightstreet Music
+  created_at: 2007-11-22 01:17:55.70396
+  contact_name: ""
+  country: ""
+  updated_at: 
+  created_by_id: 1
+  lock_version: "0"
+  pro_id: 2
+  id: 19
+  phone: ""
+  cae_ipi_number: 
+  contact_email: ""
+- address: ""
+  federal_tax_number: 
+  name: Paul Taylor Music
+  created_at: 2007-11-22 01:17:55.70396
+  contact_name: ""
+  country: ""
+  updated_at: 
+  created_by_id: 1
+  lock_version: "0"
+  pro_id: 2
+  id: 20
+  phone: ""
+  cae_ipi_number: 
+  contact_email: ""
+- address: ""
+  federal_tax_number: 
+  name: Pistol Pete Music
+  created_at: 2007-11-22 01:17:55.70396
+  contact_name: ""
+  country: ""
+  updated_at: 
+  created_by_id: 1
+  lock_version: "0"
+  pro_id: 1
+  id: 21
+  phone: ""
+  cae_ipi_number: 
+  contact_email: ""
+- address: ""
+  federal_tax_number: 
+  name: Plunkrock
+  created_at: 2007-11-22 01:17:55.70396
+  contact_name: ""
+  country: ""
+  updated_at: 
+  created_by_id: 1
+  lock_version: "0"
+  pro_id: 2
+  id: 22
+  phone: ""
+  cae_ipi_number: 
+  contact_email: ""
+- address: ""
+  federal_tax_number: 
+  name: Plunksongs
+  created_at: 2007-11-22 01:17:55.70396
+  contact_name: ""
+  country: ""
+  updated_at: 
+  created_by_id: 1
+  lock_version: "0"
+  pro_id: 2
+  id: 23
+  phone: ""
+  cae_ipi_number: 
+  contact_email: ""
+- address: ""
+  federal_tax_number: 
+  name: Red Engine Music
+  created_at: 2007-11-22 01:17:55.70396
+  contact_name: ""
+  country: ""
+  updated_at: 
+  created_by_id: 1
+  lock_version: "0"
+  pro_id: 1
+  id: 24
+  phone: ""
+  cae_ipi_number: 
+  contact_email: ""
+- address: ""
+  federal_tax_number: 
+  name: Revision West
+  created_at: 2007-11-22 01:17:55.70396
+  contact_name: ""
+  country: ""
+  updated_at: 
+  created_by_id: 1
+  lock_version: "0"
+  pro_id: 2
+  id: 25
+  phone: ""
+  cae_ipi_number: 
+  contact_email: ""
+- address: ""
+  federal_tax_number: 
+  name: Songs Of All Nations
+  created_at: 2007-11-22 01:17:55.70396
+  contact_name: ""
+  country: ""
+  updated_at: 
+  created_by_id: 1
+  lock_version: "0"
+  pro_id: 2
+  id: 26
+  phone: ""
+  cae_ipi_number: 
+  contact_email: ""
+- address: ""
+  federal_tax_number: 
+  name: Streetrock Polygram
+  created_at: 2007-11-22 01:17:55.70396
+  contact_name: ""
+  country: ""
+  updated_at: 
+  created_by_id: 1
+  lock_version: "0"
+  pro_id: 2
+  id: 27
+  phone: ""
+  cae_ipi_number: 
+  contact_email: ""
+- address: ""
+  federal_tax_number: 
+  name: Tia Maria Music
+  created_at: 2007-11-22 01:17:55.70396
+  contact_name: ""
+  country: ""
+  updated_at: 
+  created_by_id: 1
+  lock_version: "0"
+  pro_id: 2
+  id: 28
+  phone: ""
+  cae_ipi_number: 
+  contact_email: ""
+- address: ""
+  federal_tax_number: 
+  name: Trevor Gordon Music
+  created_at: 2007-11-22 01:17:55.70396
+  contact_name: ""
+  country: ""
+  updated_at: 
+  created_by_id: 1
+  lock_version: "0"
+  pro_id: 1
+  id: 29
+  phone: ""
+  cae_ipi_number: 
+  contact_email: ""
+- address: ""
+  federal_tax_number: 
+  name: Uphill Climb Music
+  created_at: 2007-11-22 01:17:55.70396
+  contact_name: ""
+  country: ""
+  updated_at: 
+  created_by_id: 1
+  lock_version: "0"
+  pro_id: 2
+  id: 30
+  phone: ""
+  cae_ipi_number: 
+  contact_email: ""
+- address: ""
+  federal_tax_number: 
+  name: Wilmerding
+  created_at: 2007-11-22 01:17:55.70396
+  contact_name: ""
+  country: ""
+  updated_at: 
+  created_by_id: 1
+  lock_version: "0"
+  pro_id: 1
+  id: 31
+  phone: ""
+  cae_ipi_number: 
+  contact_email: ""
+- address: ""
+  federal_tax_number: 
+  name: Woody Bones Music
+  created_at: 2007-11-22 01:17:55.70396
+  contact_name: ""
+  country: ""
+  updated_at: 
+  created_by_id: 1
+  lock_version: "0"
+  pro_id: 1
+  id: 32
+  phone: ""
+  cae_ipi_number: 
+  contact_email: ""
